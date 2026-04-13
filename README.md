@@ -283,7 +283,7 @@ Go to your repo → **Settings** → **Secrets and variables** → **Actions** �
 ### 4. Test It
 Go to **Actions** tab → **Daily Tech Video Recommender** → **Run workflow**
 
-Check your Telegram — the recommendation arrives within seconds! 🎉
+Check your Telegram — the recommendation arrives within seconds! 
 
 ---
 
@@ -334,4 +334,4 @@ To prevent this, visit your repo once every 2 months and click **Run workflow** 
 
 ---
 
-*Built to make daily tech learning effortless.* 🚀
+*Built to make daily tech learning effortless.* 
