@@ -1,4 +1,3 @@
-# yt_tech_recommendation
 # 🎬 Daily Tech Video Recommender
 
 > **One high-quality English YouTube video, delivered to your Telegram every day at 5:30 PM IST — automatically, even when your laptop is off.**
