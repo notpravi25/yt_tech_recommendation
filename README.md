@@ -1,4 +1,4 @@
-# 🎬 Daily Tech Video Recommender
+#  Daily Tech Video Recommender
 
 > **One high-quality English YouTube video, delivered to your Telegram every day at 5:30 PM IST — automatically, even when your laptop is off.**
 
@@ -9,36 +9,36 @@
 
 ---
 
-## 📱 What You Get Every Day
+##  What You Get Every Day
 
 ```
-🎬 Daily Tech Video Recommendation
-📅 Monday, 13 April 2026
+Daily Tech Video Recommendation
+Monday, 13 April 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━
-📌 Today's Topic: How Large Language Models Work
+Today's Topic: How Large Language Models Work
 
-▶️ Large Language Models explained simply
-👤 Kurzgesagt   ⏱ 12:34
-🔗 https://www.youtube.com/watch?v=...
+Large Language Models explained simply
+Kurzgesagt   ⏱ 12:34
+https://www.youtube.com/watch?v=...
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
-💡 One video a day keeps ignorance away! 🚀
+One video a day keeps ignorance away! 
 ```
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🤖 **60 curated topics** across AI, ML, and trending tech
-- 🔤 **English-only filter** — rejects Hindi, Telugu, Tamil and other language videos automatically
-- 📅 **One video per day** — focused, not overwhelming
-- ⚡ **Zero intervention** — runs on GitHub's servers, laptop can be OFF
-- 🔐 **Secure** — Telegram credentials stored as GitHub Secrets, never in code
-- 🛠️ **Easy to extend** — just add topics to a list
+-  **60 curated topics** across AI, ML, and trending tech
+-  **English-only filter** — rejects Hindi, Telugu, Tamil and other language videos automatically
+-  **One video per day** — focused, not overwhelming
+-  **Zero intervention** — runs on GitHub's servers, laptop can be OFF
+-  **Secure** — Telegram credentials stored as GitHub Secrets, never in code
+-  **Easy to extend** — just add topics to a list
 
 ---
 
-## 📚 Topic Categories
+##  Topic Categories
 
 <details>
 <summary>⚙️ Tech Fundamentals (20 topics)</summary>
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary>🤖 AI & Machine Learning (20 topics)</summary>
+<summary> AI & Machine Learning (20 topics)</summary>
 
 - How neural networks work
 - How large language models (LLMs) work
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary>🔥 Trending Tech (20 topics)</summary>
+<summary> Trending Tech (20 topics)</summary>
 
 - How humanoid robots work
 - How Neuralink works
@@ -93,7 +93,7 @@
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 daily-tech-recommender/
@@ -107,7 +107,7 @@ daily-tech-recommender/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```
 GitHub Actions Scheduler (5:30 PM IST daily)
@@ -120,12 +120,12 @@ Filters results — English only
         ↓
 Sends 1 video recommendation to Telegram
         ↓
-Done ✅ (until tomorrow)
+Done  (until tomorrow)
 ```
 
 ---
 
-## 🚀 Setup Guide
+##  Setup Guide
 
 ### 1. Create a Telegram Bot
 1. Open Telegram → search **@BotFather**
@@ -152,7 +152,7 @@ Check your Telegram — the recommendation arrives within seconds! 🎉
 
 ---
 
-## 🕐 Schedule
+##  Schedule
 
 The workflow runs daily at **12:00 UTC = 5:30 PM IST**.
 
@@ -170,7 +170,7 @@ To change the time, edit this line in `.github/workflows/daily_recommender.yml`:
 
 ---
 
-## ➕ Adding More Topics
+##  Adding More Topics
 
 Open `recommender.py` and add any string to the relevant list:
 
@@ -183,14 +183,14 @@ Open `recommender.py` and add any string to the relevant list:
 
 ---
 
-## ⚠️ Important Note
+##  Important Note
 
 GitHub pauses scheduled workflows after **60 days of repo inactivity**.
 To prevent this, visit your repo once every 2 months and click **Run workflow** once manually.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - [Python 3.11](https://python.org)
 - [youtube-search](https://pypi.org/project/youtube-search/)
