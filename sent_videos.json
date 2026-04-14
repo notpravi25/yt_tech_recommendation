@@ -1,6 +1,7 @@
 {
   "sent_urls": [
-    "https://www.youtube.com/watch?v=IkRXpFIRUl4&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
+    "https://www.youtube.com/watch?v=IkRXpFIRUl4&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
+    "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -9,6 +10,13 @@
       "title": "How are microchips made? - George Zaidan and Sajan Saini",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=IkRXpFIRUl4&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
+    },
+    {
+      "date": "2026-04-14",
+      "topic": "How Hydrogen Fuel Cells Work",
+      "title": "Hydrogen Fuel Cell: How It Works",
+      "channel": "Enginuity Explained",
+      "url": "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
