@@ -1,7 +1,8 @@
 {
   "sent_urls": [
     "https://www.youtube.com/watch?v=IkRXpFIRUl4&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
-    "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -17,6 +18,13 @@
       "title": "Hydrogen Fuel Cell: How It Works",
       "channel": "Enginuity Explained",
       "url": "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-04-15",
+      "topic": "How Large Language Models Llms Work",
+      "title": "How Large Language Models Work",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
