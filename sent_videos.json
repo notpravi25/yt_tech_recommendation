@@ -2,7 +2,8 @@
   "sent_urls": [
     "https://www.youtube.com/watch?v=IkRXpFIRUl4&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=bFb5TKVPSiY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=HlvK6DLwCz4&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
   ],
   "log": [
     {
@@ -25,6 +26,13 @@
       "title": "How Large Language Models Work",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-04-16",
+      "topic": "How 3D Printing Works",
+      "title": "How 3D Printers Work | How Things Work with Kamri Noel",
+      "channel": "Nat Geo Kids",
+      "url": "https://www.youtube.com/watch?v=HlvK6DLwCz4&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
     }
   ]
 }
