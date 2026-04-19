@@ -5,7 +5,8 @@
     "https://www.youtube.com/watch?v=5sLYAQS9sWQ&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=HlvK6DLwCz4&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=6Dcs6fQglRA&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZNIHCQnTCgGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=C2zw2H1c5Fk&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=C2zw2H1c5Fk&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJ0woBhyohjO8%3D"
   ],
   "log": [
     {
@@ -49,6 +50,13 @@
       "title": "Reinforcement Learning Explained in 90 Seconds | Synopsys​",
       "channel": "Synopsys",
       "url": "https://www.youtube.com/watch?v=C2zw2H1c5Fk&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-04-19",
+      "topic": "How Backpropagation Works Neural Network",
+      "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJ0woBhyohjO8%3D"
     }
   ]
 }
