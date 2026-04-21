@@ -7,7 +7,8 @@
     "https://www.youtube.com/watch?v=6Dcs6fQglRA&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZNIHCQnTCgGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=C2zw2H1c5Fk&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJ0woBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=B3U1NDUiwSA&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    "https://www.youtube.com/watch?v=B3U1NDUiwSA&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
+    "https://www.youtube.com/watch?v=D2A-LI2i6N4&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -65,6 +66,13 @@
       "title": "Quantum Computers Explained: How Quantum Computing Works",
       "channel": "Science ABC",
       "url": "https://www.youtube.com/watch?v=B3U1NDUiwSA&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    },
+    {
+      "date": "2026-04-21",
+      "topic": "How Drone Delivery Systems Work",
+      "title": "How Does DRONE DELIVERY Work",
+      "channel": "How-Does-It",
+      "url": "https://www.youtube.com/watch?v=D2A-LI2i6N4&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
