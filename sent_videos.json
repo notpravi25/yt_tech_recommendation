@@ -9,7 +9,8 @@
     "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJ0woBhyohjO8%3D",
     "https://www.youtube.com/watch?v=B3U1NDUiwSA&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
     "https://www.youtube.com/watch?v=D2A-LI2i6N4&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=dGr8VaITKbA&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
   ],
   "log": [
     {
@@ -81,6 +82,13 @@
       "title": "AI Hallucinations Explained",
       "channel": "Moveworks",
       "url": "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-04-23",
+      "topic": "How Nuclear Fusion Energy Works 2024",
+      "title": "How close are we to powering the world with nuclear fusion? - George Zaidan",
+      "channel": "TED-Ed",
+      "url": "https://www.youtube.com/watch?v=dGr8VaITKbA&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
     }
   ]
 }
