@@ -10,7 +10,8 @@
     "https://www.youtube.com/watch?v=B3U1NDUiwSA&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
     "https://www.youtube.com/watch?v=D2A-LI2i6N4&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=dGr8VaITKbA&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
+    "https://www.youtube.com/watch?v=dGr8VaITKbA&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
+    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
   ],
   "log": [
     {
@@ -89,6 +90,13 @@
       "title": "How close are we to powering the world with nuclear fusion? - George Zaidan",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=dGr8VaITKbA&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
+    },
+    {
+      "date": "2026-04-24",
+      "topic": "How Jet Engines Work",
+      "title": "How Jet Engines Work",
+      "channel": "Animagraffs",
+      "url": "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
     }
   ]
 }
