@@ -14,7 +14,8 @@
     "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=-AiUnUbL5hA&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
-    "https://www.youtube.com/watch?v=jI-HeXhsUIg&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=jI-HeXhsUIg&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
   ],
   "log": [
     {
@@ -121,6 +122,13 @@
       "title": "Rocket Science: How Rockets Work - A Short and Basic Explanation",
       "channel": "Science ABC",
       "url": "https://www.youtube.com/watch?v=jI-HeXhsUIg&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-04-28",
+      "topic": "What Is Edge Computing",
+      "title": "What is edge computing?",
+      "channel": "TECHtalk",
+      "url": "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
     }
   ]
 }
