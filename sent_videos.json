@@ -16,7 +16,8 @@
     "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
     "https://www.youtube.com/watch?v=jI-HeXhsUIg&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
-    "https://www.youtube.com/watch?v=XU2xd2b-GTs&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=XU2xd2b-GTs&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=1CIpzeNxIhU&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
   ],
   "log": [
     {
@@ -137,6 +138,13 @@
       "title": "How Do Electric Vehicles Work? EV Charger, Battery, Motor All Explained.",
       "channel": "CNET",
       "url": "https://www.youtube.com/watch?v=XU2xd2b-GTs&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-04-30",
+      "topic": "How Diffusion Models Ai Image Generation Works",
+      "title": "How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile",
+      "channel": "Computerphile",
+      "url": "https://www.youtube.com/watch?v=1CIpzeNxIhU&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
     }
   ]
 }
