@@ -17,7 +17,8 @@
     "https://www.youtube.com/watch?v=jI-HeXhsUIg&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=XU2xd2b-GTs&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=1CIpzeNxIhU&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    "https://www.youtube.com/watch?v=1CIpzeNxIhU&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
+    "https://www.youtube.com/watch?v=IC1JQu9xGHQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -145,6 +146,13 @@
       "title": "How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile",
       "channel": "Computerphile",
       "url": "https://www.youtube.com/watch?v=1CIpzeNxIhU&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    },
+    {
+      "date": "2026-05-01",
+      "topic": "How Satellites Orbit Earth",
+      "title": "How Do Satellites Get & Stay in Orbit?",
+      "channel": "SciShow Space",
+      "url": "https://www.youtube.com/watch?v=IC1JQu9xGHQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk"
     }
   ]
 }
