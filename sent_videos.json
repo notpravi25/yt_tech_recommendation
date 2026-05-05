@@ -21,7 +21,8 @@
     "https://www.youtube.com/watch?v=IC1JQu9xGHQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=LhLyOWoUnDI&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWTSBwkJ3goBhyohjO8%3D",
     "https://www.youtube.com/watch?v=jmmW0F0biz0&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=Yq0QkCxoTHM&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
+    "https://www.youtube.com/watch?v=Yq0QkCxoTHM&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
+    "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -177,6 +178,13 @@
       "title": "Google’s AI Course for Beginners (in 10 minutes)!",
       "channel": "Jeff Su",
       "url": "https://www.youtube.com/watch?v=Yq0QkCxoTHM&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
+    },
+    {
+      "date": "2026-05-05",
+      "topic": "How Ai Voice Cloning Works",
+      "title": "How Voice Cloning Works: Explained EASILY",
+      "channel": "Valerio Velardo - The Sound of AI",
+      "url": "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
