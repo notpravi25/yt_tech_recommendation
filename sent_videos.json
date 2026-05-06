@@ -22,7 +22,8 @@
     "https://www.youtube.com/watch?v=LhLyOWoUnDI&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWTSBwkJ3goBhyohjO8%3D",
     "https://www.youtube.com/watch?v=jmmW0F0biz0&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=Yq0QkCxoTHM&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
-    "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -185,6 +186,13 @@
       "title": "How Voice Cloning Works: Explained EASILY",
       "channel": "Valerio Velardo - The Sound of AI",
       "url": "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-05-06",
+      "topic": "How Planes Fly Aerodynamics",
+      "title": "How do airplanes actually fly? - Raymond Adkins",
+      "channel": "TED-Ed",
+      "url": "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
