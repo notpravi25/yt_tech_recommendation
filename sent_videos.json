@@ -23,7 +23,8 @@
     "https://www.youtube.com/watch?v=jmmW0F0biz0&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=Yq0QkCxoTHM&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
     "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=1U6Nzcv9Vws&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D"
   ],
   "log": [
     {
@@ -193,6 +194,13 @@
       "title": "How do airplanes actually fly? - Raymond Adkins",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-05-07",
+      "topic": "How Nuclear Reactors Work",
+      "title": "Nuclear Reactor - Understanding how it works | Physics Elearnin",
+      "channel": "Elearnin",
+      "url": "https://www.youtube.com/watch?v=1U6Nzcv9Vws&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D"
     }
   ]
 }
