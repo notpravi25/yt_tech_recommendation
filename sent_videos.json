@@ -25,7 +25,8 @@
     "https://www.youtube.com/watch?v=qiKsbhxNCtQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=p4VHMsIuPmk&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=1U6Nzcv9Vws&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=G1Ke-H8I1uk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
+    "https://www.youtube.com/watch?v=G1Ke-H8I1uk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr",
+    "https://www.youtube.com/watch?v=wCcARVbL_Dk&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -209,6 +210,13 @@
       "title": "How Does LIGHT Carry Data? - Fiber Optics Explained",
       "channel": "Techquickie",
       "url": "https://www.youtube.com/watch?v=G1Ke-H8I1uk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
+    },
+    {
+      "date": "2026-05-09",
+      "topic": "How Gps Navigation Works",
+      "title": "How GPS Works Today",
+      "channel": "BRIGHT SIDE",
+      "url": "https://www.youtube.com/watch?v=wCcARVbL_Dk&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
