@@ -27,7 +27,8 @@
     "https://www.youtube.com/watch?v=1U6Nzcv9Vws&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=G1Ke-H8I1uk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr",
     "https://www.youtube.com/watch?v=wCcARVbL_Dk&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=zYGDpG-pTho&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=zYGDpG-pTho&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=Jb0Z_Si3aqo&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -225,6 +226,13 @@
       "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=zYGDpG-pTho&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-05-11",
+      "topic": "How Humanoid Robots Work Boston Dynamics",
+      "title": "Boston Dynamics CEO explains how Atlas humanoid robot works | Robert Playter and Lex Fridman",
+      "channel": "Lex Clips",
+      "url": "https://www.youtube.com/watch?v=Jb0Z_Si3aqo&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
     }
   ]
 }
