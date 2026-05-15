@@ -31,7 +31,8 @@
     "https://www.youtube.com/watch?v=Jb0Z_Si3aqo&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=VakWYzlCq2I&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJBAsBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
   ],
   "log": [
     {
@@ -257,6 +258,13 @@
       "title": "How do Lithium-ion Batteries Work?",
       "channel": "Branch Education",
       "url": "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-05-15",
+      "topic": "How Embeddings Work In Ai",
+      "title": "How AI Turns Words Into Vectors: Embeddings",
+      "channel": "BlackBoard AI",
+      "url": "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
     }
   ]
 }
