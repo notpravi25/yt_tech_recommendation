@@ -32,7 +32,8 @@
     "https://www.youtube.com/watch?v=VakWYzlCq2I&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJBAsBhyohjO8%3D",
     "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
+    "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
+    "https://www.youtube.com/watch?v=puB-4LuRNys&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -265,6 +266,13 @@
       "title": "How AI Turns Words Into Vectors: Embeddings",
       "channel": "BlackBoard AI",
       "url": "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
+    },
+    {
+      "date": "2026-05-16",
+      "topic": "How Computer Vision Works Ai",
+      "title": "Computer Vision Explained in 5 Minutes | AI Explained",
+      "channel": "AI Sciences",
+      "url": "https://www.youtube.com/watch?v=puB-4LuRNys&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D"
     }
   ]
 }
