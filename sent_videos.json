@@ -35,7 +35,8 @@
     "https://www.youtube.com/watch?v=lPTcTh5sRug&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=puB-4LuRNys&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=dX9CGRZwD-w&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
-    "https://www.youtube.com/watch?v=2hnoGo27uf8&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=2hnoGo27uf8&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -289,6 +290,13 @@
       "title": "What is a Digital Twin?",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=2hnoGo27uf8&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-05-19",
+      "topic": "How 5G Networks Work",
+      "title": "How 5G works and what it delivers",
+      "channel": "CNET",
+      "url": "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
