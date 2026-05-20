@@ -36,7 +36,8 @@
     "https://www.youtube.com/watch?v=puB-4LuRNys&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=dX9CGRZwD-w&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=2hnoGo27uf8&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=sFztPP9qPRc&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -297,6 +298,13 @@
       "title": "How 5G works and what it delivers",
       "channel": "CNET",
       "url": "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-05-20",
+      "topic": "How Stable Diffusion Works",
+      "title": "How Stable Diffusion Works (AI Image Generation)",
+      "channel": "Gonkee",
+      "url": "https://www.youtube.com/watch?v=sFztPP9qPRc&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
