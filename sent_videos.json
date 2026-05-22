@@ -38,7 +38,8 @@
     "https://www.youtube.com/watch?v=2hnoGo27uf8&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=sFztPP9qPRc&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=Yxt72aDjFgY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=Yxt72aDjFgY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -313,6 +314,13 @@
       "title": "Generate Electricity - How Solar Panels Work!",
       "channel": "The Engineering Mindset",
       "url": "https://www.youtube.com/watch?v=Yxt72aDjFgY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-05-22",
+      "topic": "How Large Language Models Llms Work",
+      "title": "Large Language Models explained briefly",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
