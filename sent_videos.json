@@ -39,7 +39,8 @@
     "https://www.youtube.com/watch?v=iQeaK0NGMnA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=sFztPP9qPRc&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=Yxt72aDjFgY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -321,6 +322,13 @@
       "title": "Large Language Models explained briefly",
       "channel": "3Blue1Brown",
       "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-05-23",
+      "topic": "How Self-Driving Cars Work Ai Tesla",
+      "title": "How Tesla Full Self Driving Actually Works",
+      "channel": "The Tesla Space",
+      "url": "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
     }
   ]
 }
