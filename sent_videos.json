@@ -40,7 +40,8 @@
     "https://www.youtube.com/watch?v=sFztPP9qPRc&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=Yxt72aDjFgY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -329,6 +330,13 @@
       "title": "How Tesla Full Self Driving Actually Works",
       "channel": "The Tesla Space",
       "url": "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-05-24",
+      "topic": "How Chatgpt Works",
+      "title": "LLMs Like ChatGPT, Explained Visually – How Do They Really Work?",
+      "channel": "Under The Hood",
+      "url": "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk"
     }
   ]
 }
