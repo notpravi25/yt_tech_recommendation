@@ -42,7 +42,8 @@
     "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=heG4C_W2NyQ&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=x8DK4rM6Y90&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
+    "https://www.youtube.com/watch?v=x8DK4rM6Y90&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u",
+    "https://www.youtube.com/watch?v=2pp17E4E-O8&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
   ],
   "log": [
     {
@@ -345,6 +346,13 @@
       "title": "How Jet Engines Work",
       "channel": "Pratt & Whitney",
       "url": "https://www.youtube.com/watch?v=x8DK4rM6Y90&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
+    },
+    {
+      "date": "2026-05-26",
+      "topic": "How Crispr Gene Editing Works",
+      "title": "Genome Editing with CRISPR-Cas9",
+      "channel": "McGovern Institute",
+      "url": "https://www.youtube.com/watch?v=2pp17E4E-O8&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
     }
   ]
 }
