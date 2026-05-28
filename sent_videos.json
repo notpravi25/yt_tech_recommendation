@@ -44,7 +44,8 @@
     "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=x8DK4rM6Y90&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=2pp17E4E-O8&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
-    "https://www.youtube.com/watch?v=ZQvfHyfgBtA&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    "https://www.youtube.com/watch?v=ZQvfHyfgBtA&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
+    "https://www.youtube.com/watch?v=E7Up7VuFd8A&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -361,6 +362,13 @@
       "title": "How a Car Engine Works",
       "channel": "Animagraffs",
       "url": "https://www.youtube.com/watch?v=ZQvfHyfgBtA&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    },
+    {
+      "date": "2026-05-28",
+      "topic": "How Hard Drives And Ssds Work",
+      "title": "How do SSDs Work?  How to fit 3 WEEKS of TV in a microchip the size of a dime!!  Explained in 3min.",
+      "channel": "Branch Education",
+      "url": "https://www.youtube.com/watch?v=E7Up7VuFd8A&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
