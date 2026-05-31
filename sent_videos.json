@@ -47,7 +47,8 @@
     "https://www.youtube.com/watch?v=ZQvfHyfgBtA&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=E7Up7VuFd8A&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=f94CnlQ0eq4&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=JhHMJCUmq28&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    "https://www.youtube.com/watch?v=JhHMJCUmq28&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
+    "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -385,6 +386,13 @@
       "title": "Quantum Computers Explained – Limits of Human Technology",
       "channel": "Kurzgesagt – In a Nutshell",
       "url": "https://www.youtube.com/watch?v=JhHMJCUmq28&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    },
+    {
+      "date": "2026-05-31",
+      "topic": "How Submarines Work",
+      "title": "How Do Submarines Dive and Surface?",
+      "channel": "Science Channel",
+      "url": "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
