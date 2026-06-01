@@ -48,7 +48,8 @@
     "https://www.youtube.com/watch?v=E7Up7VuFd8A&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=f94CnlQ0eq4&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=JhHMJCUmq28&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
-    "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
   ],
   "log": [
     {
@@ -393,6 +394,13 @@
       "title": "How Do Submarines Dive and Surface?",
       "channel": "Science Channel",
       "url": "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-06-01",
+      "topic": "How Machine Learning Works",
+      "title": "Machine Learning Explained in 100 Seconds",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
     }
   ]
 }
