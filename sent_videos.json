@@ -50,7 +50,8 @@
     "https://www.youtube.com/watch?v=JhHMJCUmq28&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
     "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
-    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQkoCwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQkoCwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -409,6 +410,13 @@
       "title": "What is Retrieval-Augmented Generation (RAG)?",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQkoCwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-06-03",
+      "topic": "How Alphago And Alphafold Work Deepmind",
+      "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
+      "channel": "Veritasium",
+      "url": "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
