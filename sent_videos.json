@@ -51,7 +51,8 @@
     "https://www.youtube.com/watch?v=BTis6GioP2g&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
     "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQkoCwGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -417,6 +418,13 @@
       "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
       "channel": "Veritasium",
       "url": "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-06-04",
+      "topic": "How Ai Hallucinations Happen",
+      "title": "Why Large Language Models Hallucinate",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
     }
   ]
 }
