@@ -54,7 +54,8 @@
     "https://www.youtube.com/watch?v=P_fHJIYENdI&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=mzhvR4wm__M&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=azACL3lLMo8&pp=ygUpaG93IHNvbGlkIHN0YXRlIGJhdHRlcmllcyB3b3JrIGZ1dHVyZSBFVnPSBwkJOAsBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=azACL3lLMo8&pp=ygUpaG93IHNvbGlkIHN0YXRlIGJhdHRlcmllcyB3b3JrIGZ1dHVyZSBFVnPSBwkJOAsBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=vXtfdGphr3c&t=171s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -441,6 +442,13 @@
       "title": "What are Solid-State Lithium-Metal Batteries?",
       "channel": "QuantumScape",
       "url": "https://www.youtube.com/watch?v=azACL3lLMo8&pp=ygUpaG93IHNvbGlkIHN0YXRlIGJhdHRlcmllcyB3b3JrIGZ1dHVyZSBFVnPSBwkJOAsBhyohjO8%3D"
+    },
+    {
+      "date": "2026-06-07",
+      "topic": "How Reinforcement Learning Works",
+      "title": "Reinforcement Learning from scratch",
+      "channel": "Graphics in 5 Minutes",
+      "url": "https://www.youtube.com/watch?v=vXtfdGphr3c&t=171s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
