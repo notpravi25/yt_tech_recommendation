@@ -56,7 +56,8 @@
     "https://www.youtube.com/watch?v=mzhvR4wm__M&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=azACL3lLMo8&pp=ygUpaG93IHNvbGlkIHN0YXRlIGJhdHRlcmllcyB3b3JrIGZ1dHVyZSBFVnPSBwkJOAsBhyohjO8%3D",
     "https://www.youtube.com/watch?v=vXtfdGphr3c&t=171s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
   ],
   "log": [
     {
@@ -457,6 +458,13 @@
       "title": "What is Quantum Cryptography? An Introduction",
       "channel": "Eye on Tech",
       "url": "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-06-09",
+      "topic": "How Electric Motors Work",
+      "title": "How does an Electric Motor work?  (DC Motor)",
+      "channel": "Jared Owen",
+      "url": "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
     }
   ]
 }
