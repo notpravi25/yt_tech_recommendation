@@ -57,7 +57,8 @@
     "https://www.youtube.com/watch?v=azACL3lLMo8&pp=ygUpaG93IHNvbGlkIHN0YXRlIGJhdHRlcmllcyB3b3JrIGZ1dHVyZSBFVnPSBwkJOAsBhyohjO8%3D",
     "https://www.youtube.com/watch?v=vXtfdGphr3c&t=171s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
+    "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D",
+    "https://www.youtube.com/watch?v=mZsaaturR6E&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
   ],
   "log": [
     {
@@ -465,6 +466,13 @@
       "title": "How does an Electric Motor work?  (DC Motor)",
       "channel": "Jared Owen",
       "url": "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
+    },
+    {
+      "date": "2026-06-10",
+      "topic": "How Nuclear Fusion Energy Works 2024",
+      "title": "Fusion Power Explained – Future or Failure",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "url": "https://www.youtube.com/watch?v=mZsaaturR6E&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
     }
   ]
 }
