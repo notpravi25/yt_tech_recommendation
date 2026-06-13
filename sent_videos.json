@@ -60,7 +60,8 @@
     "https://www.youtube.com/watch?v=CWulQ1ZSE3c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=mZsaaturR6E&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
     "https://www.youtube.com/watch?v=dkiRmnOu_Ak&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv"
   ],
   "log": [
     {
@@ -489,6 +490,13 @@
       "title": "How Radar Works | Start Learning About EW Here",
       "channel": "The Ops Center By Mike Solyom",
       "url": "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-06-13",
+      "topic": "What Is Edge Computing",
+      "title": "What is edge computing?",
+      "channel": "TECHtalk",
+      "url": "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv"
     }
   ]
 }
