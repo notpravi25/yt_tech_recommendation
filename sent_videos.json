@@ -61,7 +61,8 @@
     "https://www.youtube.com/watch?v=mZsaaturR6E&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
     "https://www.youtube.com/watch?v=dkiRmnOu_Ak&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv"
+    "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv",
+    "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -497,6 +498,13 @@
       "title": "What is edge computing?",
       "channel": "TECHtalk",
       "url": "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv"
+    },
+    {
+      "date": "2026-06-14",
+      "topic": "What Is Spatial Computing Apple Vision Pro",
+      "title": "Spatial Computing on the Quest 3: Do You Really Need a Vision Pro?",
+      "channel": "CNET",
+      "url": "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D"
     }
   ]
 }
