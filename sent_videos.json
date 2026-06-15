@@ -62,7 +62,8 @@
     "https://www.youtube.com/watch?v=dkiRmnOu_Ak&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv",
-    "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
   ],
   "log": [
     {
@@ -505,6 +506,13 @@
       "title": "Spatial Computing on the Quest 3: Do You Really Need a Vision Pro?",
       "channel": "CNET",
       "url": "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-06-15",
+      "topic": "How Diffusion Models Ai Image Generation Works",
+      "title": "Diffusion Models for AI Image Generation",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
     }
   ]
 }
