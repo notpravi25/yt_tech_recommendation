@@ -63,7 +63,8 @@
     "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=3hScMLH7B4o&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCT4LAYcqIYzv",
     "https://www.youtube.com/watch?v=_jIZsX3Qdhw&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZNIHCQk-CwGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
+    "https://www.youtube.com/watch?v=su9MtcYkzgw&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -513,6 +514,13 @@
       "title": "Diffusion Models for AI Image Generation",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    },
+    {
+      "date": "2026-06-16",
+      "topic": "How Starlink Satellite Internet Works",
+      "title": "How Does The Starlink System Work?",
+      "channel": "Insane Curiosity",
+      "url": "https://www.youtube.com/watch?v=su9MtcYkzgw&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
     }
   ]
 }
