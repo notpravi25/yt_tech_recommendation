@@ -66,7 +66,8 @@
     "https://www.youtube.com/watch?v=x2GRE-RzmD8&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
     "https://www.youtube.com/watch?v=su9MtcYkzgw&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=9g0FehS0H1E&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=taSbwarjGGw&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=taSbwarjGGw&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -537,6 +538,13 @@
       "title": "What is a Digital Twin? Technology, Types, & How it Works",
       "channel": "Automatedo",
       "url": "https://www.youtube.com/watch?v=taSbwarjGGw&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-06-19",
+      "topic": "How Backpropagation Works Neural Network",
+      "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
