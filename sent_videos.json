@@ -67,7 +67,8 @@
     "https://www.youtube.com/watch?v=su9MtcYkzgw&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=9g0FehS0H1E&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=taSbwarjGGw&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=n6ISdRkS37I&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -545,6 +546,13 @@
       "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
       "channel": "3Blue1Brown",
       "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-06-20",
+      "topic": "How Humanoid Robots Work Boston Dynamics",
+      "title": "How Boston Dynamics upgraded the Atlas robot",
+      "channel": "60 Minutes",
+      "url": "https://www.youtube.com/watch?v=n6ISdRkS37I&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
     }
   ]
 }
