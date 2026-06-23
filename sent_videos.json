@@ -70,7 +70,8 @@
     "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=n6ISdRkS37I&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=2hXG8v8p0KM&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=fncKWrmONxk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr0gcJCT8LAYcqIYzv"
+    "https://www.youtube.com/watch?v=fncKWrmONxk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr0gcJCT8LAYcqIYzv",
+    "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -569,6 +570,13 @@
       "title": "How Fiber Internet Works",
       "channel": "Shortcut Team",
       "url": "https://www.youtube.com/watch?v=fncKWrmONxk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr0gcJCT8LAYcqIYzv"
+    },
+    {
+      "date": "2026-06-23",
+      "topic": "How 5G Networks Work",
+      "title": "5G Explained In 7 Minutes | What is 5G? | How 5G Works? | 5G: The Next-Gen Network | Simplilearn",
+      "channel": "Simplilearn",
+      "url": "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
