@@ -71,7 +71,8 @@
     "https://www.youtube.com/watch?v=n6ISdRkS37I&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=2hXG8v8p0KM&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=fncKWrmONxk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr0gcJCT8LAYcqIYzv",
-    "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
   ],
   "log": [
     {
@@ -577,6 +578,13 @@
       "title": "5G Explained In 7 Minutes | What is 5G? | How 5G Works? | 5G: The Next-Gen Network | Simplilearn",
       "channel": "Simplilearn",
       "url": "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-06-24",
+      "topic": "How Attention Mechanism Works In Transformers",
+      "title": "How Attention Mechanism Works in Transformer Architecture",
+      "channel": "Under The Hood",
+      "url": "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
     }
   ]
 }
