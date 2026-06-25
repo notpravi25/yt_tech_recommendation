@@ -72,7 +72,8 @@
     "https://www.youtube.com/watch?v=2hXG8v8p0KM&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=fncKWrmONxk&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr0gcJCT8LAYcqIYzv",
     "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
+    "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
+    "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -585,6 +586,13 @@
       "title": "How Attention Mechanism Works in Transformer Architecture",
       "channel": "Under The Hood",
       "url": "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
+    },
+    {
+      "date": "2026-06-25",
+      "topic": "How Self-Driving Cars Work Ai Tesla",
+      "title": "How Self Driving Cars Work | How Autonomous Vehicles Work | AI | Intellipaat",
+      "channel": "Intellipaat",
+      "url": "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
     }
   ]
 }
