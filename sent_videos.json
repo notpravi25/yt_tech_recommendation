@@ -74,7 +74,8 @@
     "https://www.youtube.com/watch?v=mo1lNRKnayA&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
     "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=R6AdX-bdDaw&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=R6AdX-bdDaw&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -601,6 +602,13 @@
       "title": "How Do Hydrogen Fuel Cells Work?",
       "channel": "Reactions",
       "url": "https://www.youtube.com/watch?v=R6AdX-bdDaw&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-06-27",
+      "topic": "How Stable Diffusion Works",
+      "title": "Stable Diffusion explained (in less than 10 minutes)",
+      "channel": "Render Realm",
+      "url": "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
