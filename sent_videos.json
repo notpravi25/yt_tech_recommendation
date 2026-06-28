@@ -75,7 +75,8 @@
     "https://www.youtube.com/watch?v=KMHkbXzHn7s&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
     "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=R6AdX-bdDaw&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -609,6 +610,13 @@
       "title": "Stable Diffusion explained (in less than 10 minutes)",
       "channel": "Render Realm",
       "url": "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-06-28",
+      "topic": "How Neural Networks Work",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
