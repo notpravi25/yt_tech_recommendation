@@ -77,7 +77,8 @@
     "https://www.youtube.com/watch?v=R6AdX-bdDaw&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=QdRP9pO89MY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQlBCwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQlBCwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=Bu52CE55BN0&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
   ],
   "log": [
     {
@@ -625,6 +626,13 @@
       "title": "How do Lithium-ion Batteries Work?",
       "channel": "Branch Education",
       "url": "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQlBCwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-06-30",
+      "topic": "How Semiconductors And Microchips Are Made",
+      "title": "‘Semiconductor Manufacturing Process’ Explained | 'All About Semiconductor' by Samsung Semiconductor",
+      "channel": "Samsung Semiconductor Newsroom",
+      "url": "https://www.youtube.com/watch?v=Bu52CE55BN0&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
     }
   ]
 }
