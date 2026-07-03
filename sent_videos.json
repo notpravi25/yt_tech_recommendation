@@ -80,7 +80,8 @@
     "https://www.youtube.com/watch?v=G5McJw4KkG8&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQlBCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=Bu52CE55BN0&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=DmqSYgM8QHc&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=DmqSYgM8QHc&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv"
   ],
   "log": [
     {
@@ -649,6 +650,13 @@
       "title": "Neuralink brain chip's first human patient. How does it work? | About That",
       "channel": "CBC News",
       "url": "https://www.youtube.com/watch?v=DmqSYgM8QHc&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-07-03",
+      "topic": "How Machine Learning Works",
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv"
     }
   ]
 }
