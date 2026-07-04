@@ -81,7 +81,8 @@
     "https://www.youtube.com/watch?v=Bu52CE55BN0&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=DmqSYgM8QHc&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv"
+    "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv",
+    "https://www.youtube.com/watch?v=6Dcs6fQglRA&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -657,6 +658,13 @@
       "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv"
+    },
+    {
+      "date": "2026-07-04",
+      "topic": "What Is Neuromorphic Computing",
+      "title": "Architecture All Access: Neuromorphic Computing Part 1",
+      "channel": "Intel Technology",
+      "url": "https://www.youtube.com/watch?v=6Dcs6fQglRA&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
