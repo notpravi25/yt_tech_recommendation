@@ -83,7 +83,8 @@
     "https://www.youtube.com/watch?v=DmqSYgM8QHc&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=qYNweeDHiyU&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw0gcJCU4LAYcqIYzv",
     "https://www.youtube.com/watch?v=6Dcs6fQglRA&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=gqK3dCpwzxE&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
   ],
   "log": [
     {
@@ -673,6 +674,13 @@
       "title": "How exoskeletons work",
       "channel": "Rappler",
       "url": "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-07-06",
+      "topic": "How Car Engines Work",
+      "title": "Engines 101: The Basics of How Engines Work | Toyota",
+      "channel": "Toyota USA",
+      "url": "https://www.youtube.com/watch?v=gqK3dCpwzxE&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
     }
   ]
 }
