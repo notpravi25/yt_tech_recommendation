@@ -86,7 +86,8 @@
     "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=gqK3dCpwzxE&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=bSvTVREwSNw&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCUwLAYcqIYzv"
+    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCUwLAYcqIYzv",
+    "https://www.youtube.com/watch?v=H7ZHemE2nRs&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQlPCwGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -697,6 +698,13 @@
       "title": "How Jet Engines Work",
       "channel": "Animagraffs",
       "url": "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCUwLAYcqIYzv"
+    },
+    {
+      "date": "2026-07-09",
+      "topic": "How Augmented Reality Ar Works",
+      "title": "How Augmented Reality Works // A Beginner’s Guide to AR",
+      "channel": "Reality School",
+      "url": "https://www.youtube.com/watch?v=H7ZHemE2nRs&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQlPCwGHKiGM7w%3D%3D"
     }
   ]
 }
