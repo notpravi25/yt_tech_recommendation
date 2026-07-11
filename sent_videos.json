@@ -88,7 +88,8 @@
     "https://www.youtube.com/watch?v=bSvTVREwSNw&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCUwLAYcqIYzv",
     "https://www.youtube.com/watch?v=H7ZHemE2nRs&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQlPCwGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=yubzJw0uiE4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=yubzJw0uiE4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -713,6 +714,13 @@
       "title": "Blockchain In 7 Minutes | What Is Blockchain | Blockchain Explained|How Blockchain Works|Simplilearn",
       "channel": "Simplilearn",
       "url": "https://www.youtube.com/watch?v=yubzJw0uiE4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-11",
+      "topic": "How Ai Hallucinations Happen",
+      "title": "What Are AI Hallucinations and How Do They Work?",
+      "channel": "TechRound",
+      "url": "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
     }
   ]
 }
