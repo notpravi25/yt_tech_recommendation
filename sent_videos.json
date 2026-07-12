@@ -89,7 +89,8 @@
     "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCUwLAYcqIYzv",
     "https://www.youtube.com/watch?v=H7ZHemE2nRs&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQlPCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=yubzJw0uiE4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=OmFHwQkCYlQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk0gcJCU8LAYcqIYzv"
   ],
   "log": [
     {
@@ -721,6 +722,13 @@
       "title": "What Are AI Hallucinations and How Do They Work?",
       "channel": "TechRound",
       "url": "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-12",
+      "topic": "How Satellites Orbit Earth",
+      "title": "How Do Satellites Orbit The Earth?",
+      "channel": "BrainStuff - HowStuffWorks",
+      "url": "https://www.youtube.com/watch?v=OmFHwQkCYlQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk0gcJCU8LAYcqIYzv"
     }
   ]
 }
