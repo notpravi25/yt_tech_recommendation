@@ -91,7 +91,8 @@
     "https://www.youtube.com/watch?v=yubzJw0uiE4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=OmFHwQkCYlQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk0gcJCU8LAYcqIYzv",
-    "https://www.youtube.com/watch?v=Kv8N9alyYNc&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    "https://www.youtube.com/watch?v=Kv8N9alyYNc&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
+    "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -737,6 +738,13 @@
       "title": "Quantum Computers: Explained VISUALLY",
       "channel": "Lukas's Lab",
       "url": "https://www.youtube.com/watch?v=Kv8N9alyYNc&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    },
+    {
+      "date": "2026-07-14",
+      "topic": "How Submarines Work",
+      "title": "How Do Submarines Work?",
+      "channel": "SciShow Kids",
+      "url": "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
