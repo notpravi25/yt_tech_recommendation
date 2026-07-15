@@ -92,7 +92,8 @@
     "https://www.youtube.com/watch?v=WowYXubbMtA&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=OmFHwQkCYlQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk0gcJCU8LAYcqIYzv",
     "https://www.youtube.com/watch?v=Kv8N9alyYNc&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
-    "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -745,6 +746,13 @@
       "title": "How Do Submarines Work?",
       "channel": "SciShow Kids",
       "url": "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-15",
+      "topic": "How Solar Panels Generate Electricity",
+      "title": "How do solar panels work? - Richard Komp",
+      "channel": "TED-Ed",
+      "url": "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
     }
   ]
 }
