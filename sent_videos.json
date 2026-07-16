@@ -93,7 +93,8 @@
     "https://www.youtube.com/watch?v=OmFHwQkCYlQ&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk0gcJCU8LAYcqIYzv",
     "https://www.youtube.com/watch?v=Kv8N9alyYNc&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
     "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk0gcJCZULAYcqIYzv"
   ],
   "log": [
     {
@@ -753,6 +754,13 @@
       "title": "How do solar panels work? - Richard Komp",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-16",
+      "topic": "How Large Language Models Llms Work",
+      "title": "Large Language Models explained briefly",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk0gcJCZULAYcqIYzv"
     }
   ]
 }
