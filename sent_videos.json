@@ -95,7 +95,8 @@
     "https://www.youtube.com/watch?v=c3W937dORLI&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk0gcJCZULAYcqIYzv",
-    "https://www.youtube.com/watch?v=T_X4XFwKX8k&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=T_X4XFwKX8k&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -769,6 +770,13 @@
       "title": "Reinforcement Learning from Human Feedback (RLHF) Explained",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=T_X4XFwKX8k&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-07-18",
+      "topic": "How Transformers Work In Ai",
+      "title": "Transformer Explained",
+      "channel": "Caleb Writes Code",
+      "url": "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
