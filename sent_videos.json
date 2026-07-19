@@ -96,7 +96,8 @@
     "https://www.youtube.com/watch?v=xKxrkht7CpY&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=LPZh9BOjkQs&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk0gcJCZULAYcqIYzv",
     "https://www.youtube.com/watch?v=T_X4XFwKX8k&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=m8o2GrbR3d8&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
   ],
   "log": [
     {
@@ -777,6 +778,13 @@
       "title": "Transformer Explained",
       "channel": "Caleb Writes Code",
       "url": "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-07-19",
+      "topic": "How Artificial Intelligence Works",
+      "title": "SIMPLEST Explanation of How Artificial Intelligence Works? No Jargon | What is AI? How AI works?",
+      "channel": "Science Simplified 4 All",
+      "url": "https://www.youtube.com/watch?v=m8o2GrbR3d8&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
     }
   ]
 }
