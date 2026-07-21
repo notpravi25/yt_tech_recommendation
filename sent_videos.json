@@ -98,7 +98,8 @@
     "https://www.youtube.com/watch?v=T_X4XFwKX8k&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=m8o2GrbR3d8&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
-    "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZNIHCQmZCwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZNIHCQmZCwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -793,6 +794,13 @@
       "title": "How WAAS Works | Wide Area Augmentation System | GPS Navigation",
       "channel": "FlightInsight",
       "url": "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZNIHCQmZCwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-07-21",
+      "topic": "How Starlink Satellite Internet Works",
+      "title": "How does Starlink Satellite Internet Work?📡☄🖥",
+      "channel": "Branch Education",
+      "url": "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
     }
   ]
 }
