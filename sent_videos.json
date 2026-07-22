@@ -99,7 +99,8 @@
     "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=m8o2GrbR3d8&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
     "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZNIHCQmZCwGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
   ],
   "log": [
     {
@@ -801,6 +802,13 @@
       "title": "How does Starlink Satellite Internet Work?📡☄🖥",
       "channel": "Branch Education",
       "url": "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-22",
+      "topic": "How Embeddings Work In Ai",
+      "title": "What are Word Embeddings?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
     }
   ]
 }
