@@ -101,7 +101,8 @@
     "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZNIHCQmZCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
-    "https://www.youtube.com/watch?v=rpdX6kOXprM&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=rpdX6kOXprM&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=S5AGN9XfPK4&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -817,6 +818,13 @@
       "title": "How Reusable Rockets Work",
       "channel": "The Space Race",
       "url": "https://www.youtube.com/watch?v=rpdX6kOXprM&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-07-24",
+      "topic": "How Backpropagation Works Neural Network",
+      "title": "What is Back Propagation",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=S5AGN9XfPK4&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
