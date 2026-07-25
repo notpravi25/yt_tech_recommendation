@@ -102,7 +102,8 @@
     "https://www.youtube.com/watch?v=qs2QcycggWU&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=rpdX6kOXprM&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=S5AGN9XfPK4&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=S5AGN9XfPK4&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=csBD_wHVV6s&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -825,6 +826,13 @@
       "title": "What is Back Propagation",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=S5AGN9XfPK4&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-07-25",
+      "topic": "What Is Spatial Computing Apple Vision Pro",
+      "title": "Apple Vision Pro - The Age of Spatial Computing",
+      "channel": "Future Here Show",
+      "url": "https://www.youtube.com/watch?v=csBD_wHVV6s&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
