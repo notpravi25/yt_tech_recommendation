@@ -106,7 +106,8 @@
     "https://www.youtube.com/watch?v=csBD_wHVV6s&pp=ygU0d2hhdCBpcyBzcGF0aWFsIGNvbXB1dGluZyBBcHBsZSBWaXNpb24gUHJvIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZNIHCQmjCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=ahkeyw-FUlQ&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
   ],
   "log": [
     {
@@ -857,6 +858,13 @@
       "title": "The Smart Grid Explained - An Understanding for Everyone",
       "channel": "EPCEenergyeducation - CAEL",
       "url": "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-07-29",
+      "topic": "What Is Edge Computing",
+      "title": "What is edge computing?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
     }
   ]
 }
