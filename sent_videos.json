@@ -107,7 +107,8 @@
     "https://www.youtube.com/watch?v=c8OWHnHjIpA&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZNIHCQmjCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=ahkeyw-FUlQ&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
+    "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
+    "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -865,6 +866,13 @@
       "title": "What is edge computing?",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
+    },
+    {
+      "date": "2026-07-30",
+      "topic": "How Self-Driving Cars Work Ai Tesla",
+      "title": "How do self-driving cars “see”? - Sajan Saini",
+      "channel": "TED-Ed",
+      "url": "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
     }
   ]
 }
