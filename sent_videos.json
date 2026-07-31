@@ -108,7 +108,8 @@
     "https://www.youtube.com/watch?v=ahkeyw-FUlQ&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
-    "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -873,6 +874,13 @@
       "title": "How do self-driving cars “see”? - Sajan Saini",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-07-31",
+      "topic": "How Electric Vehicles Work",
+      "title": "Electric Cars Explained: ⚡️ How Electric Cars Work? | The Future of Green Transportation Unlocked! 🚗",
+      "channel": "E-Mobility Trends",
+      "url": "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
