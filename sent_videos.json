@@ -109,7 +109,8 @@
     "https://www.youtube.com/watch?v=4L31dHXP6i0&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=cEOUeItHDdo&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=eMlx5fFNoYc&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
   ],
   "log": [
     {
@@ -881,6 +882,13 @@
       "title": "Electric Cars Explained: ⚡️ How Electric Cars Work? | The Future of Green Transportation Unlocked! 🚗",
       "channel": "E-Mobility Trends",
       "url": "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-08-01",
+      "topic": "How Attention Mechanism Works In Transformers",
+      "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=eMlx5fFNoYc&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
     }
   ]
 }
