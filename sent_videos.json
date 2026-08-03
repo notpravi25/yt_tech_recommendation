@@ -111,7 +111,8 @@
     "https://www.youtube.com/watch?v=PRg5RNU_JLk&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=kzsyJROQOas&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=eMlx5fFNoYc&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
-    "https://www.youtube.com/watch?v=SPNehFLwbb8&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=SPNehFLwbb8&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=r2_VWdjxchY&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -897,6 +898,13 @@
       "title": "How does quantum cryptography work?",
       "channel": "ICFO People",
       "url": "https://www.youtube.com/watch?v=SPNehFLwbb8&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-08-03",
+      "topic": "What Is Digital Twin Technology",
+      "title": "How “Digital Twins” Could Help Us Predict the Future | Karen Willcox | TED",
+      "channel": "TED",
+      "url": "https://www.youtube.com/watch?v=r2_VWdjxchY&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
     }
   ]
 }
