@@ -114,7 +114,8 @@
     "https://www.youtube.com/watch?v=SPNehFLwbb8&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=r2_VWdjxchY&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=Gg0TXNXgz-w&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQnFCwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQnFCwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=N9QY_fKXtFc&t=28s&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -921,6 +922,13 @@
       "title": "What is Retrieval-Augmented Generation (RAG)?",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQnFCwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-08-06",
+      "topic": "How Neural Networks Work",
+      "title": "Neural Networks Explained: Step-by-Step Walkthrough",
+      "channel": "Digital Genius",
+      "url": "https://www.youtube.com/watch?v=N9QY_fKXtFc&t=28s&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
