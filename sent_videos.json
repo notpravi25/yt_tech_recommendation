@@ -117,7 +117,8 @@
     "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQnFCwGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=N9QY_fKXtFc&t=28s&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=jpDRfaWYk3I&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -945,6 +946,13 @@
       "title": "What is artificial general intelligence? | Ian Bremmer Explains",
       "channel": "GZERO Media",
       "url": "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-08-09",
+      "topic": "How Rockets Work",
+      "title": "ROCKET SCIENCE explained in 15 minutes! And How do satellites work?",
+      "channel": "Arvin Ash",
+      "url": "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
