@@ -118,7 +118,8 @@
     "https://www.youtube.com/watch?v=N9QY_fKXtFc&t=28s&pp=ygUraG93IG5ldXJhbCBuZXR3b3JrcyB3b3JrIHZpc3VhbGx5IGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=jpDRfaWYk3I&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv"
   ],
   "log": [
     {
@@ -953,6 +954,13 @@
       "title": "ROCKET SCIENCE explained in 15 minutes! And How do satellites work?",
       "channel": "Arvin Ash",
       "url": "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-08-10",
+      "topic": "How Chatgpt Works",
+      "title": "LLMs Like ChatGPT, Explained Visually – How Do They Really Work?",
+      "channel": "Under The Hood",
+      "url": "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv"
     }
   ]
 }
