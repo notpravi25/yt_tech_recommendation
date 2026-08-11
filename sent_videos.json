@@ -119,7 +119,8 @@
     "https://www.youtube.com/watch?v=jpDRfaWYk3I&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv"
+    "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv",
+    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv"
   ],
   "log": [
     {
@@ -961,6 +962,13 @@
       "title": "LLMs Like ChatGPT, Explained Visually – How Do They Really Work?",
       "channel": "Under The Hood",
       "url": "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv"
+    },
+    {
+      "date": "2026-08-11",
+      "topic": "How Jet Engines Work",
+      "title": "How Jet Engines Work",
+      "channel": "Animagraffs",
+      "url": "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv"
     }
   ]
 }
