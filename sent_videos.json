@@ -120,7 +120,8 @@
     "https://www.youtube.com/watch?v=_P9UykEJ3eU&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv",
-    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv"
+    "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv",
+    "https://www.youtube.com/watch?v=yd1JhZzoS6A&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
   ],
   "log": [
     {
@@ -969,6 +970,13 @@
       "title": "How Jet Engines Work",
       "channel": "Animagraffs",
       "url": "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv"
+    },
+    {
+      "date": "2026-08-12",
+      "topic": "How Fiber Optic Internet Cables Work",
+      "title": "How The Internet Travels Across Oceans",
+      "channel": "VISION",
+      "url": "https://www.youtube.com/watch?v=yd1JhZzoS6A&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
     }
   ]
 }
