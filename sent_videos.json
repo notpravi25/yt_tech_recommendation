@@ -121,7 +121,8 @@
     "https://www.youtube.com/watch?v=hZ5mobRcXAU&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=NLOBYtfdxuM&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCcQLAYcqIYzv",
     "https://www.youtube.com/watch?v=L24Wf0VlTE0&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCckLAYcqIYzv",
-    "https://www.youtube.com/watch?v=yd1JhZzoS6A&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
+    "https://www.youtube.com/watch?v=yd1JhZzoS6A&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr",
+    "https://www.youtube.com/watch?v=59HBoIXzX_c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
   ],
   "log": [
     {
@@ -977,6 +978,13 @@
       "title": "How The Internet Travels Across Oceans",
       "channel": "VISION",
       "url": "https://www.youtube.com/watch?v=yd1JhZzoS6A&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
+    },
+    {
+      "date": "2026-08-13",
+      "topic": "How Electric Motors Work",
+      "title": "How Electric Motors Work - 3 phase AC induction motors  ac motor",
+      "channel": "The Engineering Mindset",
+      "url": "https://www.youtube.com/watch?v=59HBoIXzX_c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D"
     }
   ]
 }
