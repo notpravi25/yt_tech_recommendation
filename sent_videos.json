@@ -125,7 +125,8 @@
     "https://www.youtube.com/watch?v=59HBoIXzX_c&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=UKbrwPL3wXE&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=dHVZ6jEf8To&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=TetLY4gPDpo&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=TetLY4gPDpo&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=21_W5NEVTXg&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
   ],
   "log": [
     {
@@ -1009,6 +1010,13 @@
       "title": "Neuromorphic Computing Is a Big Deal for A.I., But What Is It?",
       "channel": "Seeker",
       "url": "https://www.youtube.com/watch?v=TetLY4gPDpo&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-08-17",
+      "topic": "How Nuclear Fusion Energy Works 2024",
+      "title": "Nuclear Fusion, How the Sun's energy is produced. Explained Simply",
+      "channel": "Kirkman's Academy",
+      "url": "https://www.youtube.com/watch?v=21_W5NEVTXg&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D"
     }
   ]
 }
