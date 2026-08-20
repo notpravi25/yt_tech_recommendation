@@ -128,7 +128,8 @@
     "https://www.youtube.com/watch?v=TetLY4gPDpo&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=21_W5NEVTXg&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
     "https://www.youtube.com/watch?v=67_aMPDk2zw&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
   ],
   "log": [
     {
@@ -1033,6 +1034,13 @@
       "title": "Reinforcement Learning: Crash Course AI #9",
       "channel": "CrashCourse",
       "url": "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-08-20",
+      "topic": "How 3D Printing Works",
+      "title": "How Do 3D Printers Work?  - EDUCATIONAL ANIMATION",
+      "channel": "Bracken Media",
+      "url": "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
     }
   ]
 }
