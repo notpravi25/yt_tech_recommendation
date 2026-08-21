@@ -129,7 +129,8 @@
     "https://www.youtube.com/watch?v=21_W5NEVTXg&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
     "https://www.youtube.com/watch?v=67_aMPDk2zw&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
+    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
+    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv"
   ],
   "log": [
     {
@@ -1041,6 +1042,13 @@
       "title": "How Do 3D Printers Work?  - EDUCATIONAL ANIMATION",
       "channel": "Bracken Media",
       "url": "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
+    },
+    {
+      "date": "2026-08-21",
+      "topic": "How Exoskeletons Work Robotic Suits",
+      "title": "How exoskeletons work",
+      "channel": "Rappler",
+      "url": "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv"
     }
   ]
 }
