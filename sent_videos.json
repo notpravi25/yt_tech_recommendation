@@ -130,7 +130,8 @@
     "https://www.youtube.com/watch?v=67_aMPDk2zw&pp=ygUtaG93IGxhcmdlIGxhbmd1YWdlIG1vZGVscyBMTE1zIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv"
+    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv",
+    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
   ],
   "log": [
     {
@@ -1049,6 +1050,13 @@
       "title": "How exoskeletons work",
       "channel": "Rappler",
       "url": "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv"
+    },
+    {
+      "date": "2026-08-22",
+      "topic": "How Diffusion Models Ai Image Generation Works",
+      "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "channel": "3Blue1Brown and Welch Labs",
+      "url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
     }
   ]
 }
