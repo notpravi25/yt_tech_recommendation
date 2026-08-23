@@ -131,7 +131,8 @@
     "https://www.youtube.com/watch?v=nIgIv4IfJ6s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCRMMAYcqIYzv",
-    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
+    "https://www.youtube.com/watch?v=xaEgbDa1KSI&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1057,6 +1058,13 @@
       "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
       "channel": "3Blue1Brown and Welch Labs",
       "url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
+    },
+    {
+      "date": "2026-08-23",
+      "topic": "How Ai Hallucinations Happen",
+      "title": "Hallucination - Simply Explained",
+      "channel": "codebasics",
+      "url": "https://www.youtube.com/watch?v=xaEgbDa1KSI&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D"
     }
   ]
 }
