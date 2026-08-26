@@ -134,7 +134,8 @@
     "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
     "https://www.youtube.com/watch?v=xaEgbDa1KSI&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
-    "https://www.youtube.com/watch?v=bcvnfQlz1x4&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=bcvnfQlz1x4&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1081,6 +1082,13 @@
       "title": "The Only Video Needed to Understand Orbital Mechanics",
       "channel": "Animations Xplaned",
       "url": "https://www.youtube.com/watch?v=bcvnfQlz1x4&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-08-26",
+      "topic": "How Stable Diffusion Works",
+      "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "channel": "3Blue1Brown and Welch Labs",
+      "url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
