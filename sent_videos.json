@@ -135,7 +135,8 @@
     "https://www.youtube.com/watch?v=xaEgbDa1KSI&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=bcvnfQlz1x4&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1089,6 +1090,13 @@
       "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
       "channel": "3Blue1Brown and Welch Labs",
       "url": "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-08-27",
+      "topic": "What Is Fine Tuning Ai Models",
+      "title": "RAG vs. Fine Tuning",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
     }
   ]
 }
