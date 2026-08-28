@@ -136,7 +136,8 @@
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=bcvnfQlz1x4&pp=ygUkaG93IHNhdGVsbGl0ZXMgb3JiaXQgZWFydGggZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=iv-5mZ_9CPY&pp=ygUkaG93IHN0YWJsZSBkaWZmdXNpb24gd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=eDD1SxXXTQc&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1097,6 +1098,13 @@
       "title": "RAG vs. Fine Tuning",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-08-28",
+      "topic": "How Smart Grids Work Electricity Future",
+      "title": "Smart Grids Explained: How Clean Energy and Digital Tech Are Powering the Future",
+      "channel": "The Animated Engineer",
+      "url": "https://www.youtube.com/watch?v=eDD1SxXXTQc&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
