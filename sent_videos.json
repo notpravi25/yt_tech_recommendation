@@ -139,7 +139,8 @@
     "https://www.youtube.com/watch?v=00Q0G84kq3M&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=eDD1SxXXTQc&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=CbHeh7qwils&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=J0lb46Zi5-s&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=J0lb46Zi5-s&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1121,6 +1122,13 @@
       "title": "Submarine Nuclear Power | Engineering behind it Nuclear Reactor How it Works",
       "channel": "AiTelly",
       "url": "https://www.youtube.com/watch?v=J0lb46Zi5-s&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-08-31",
+      "topic": "How Lithium Ion Batteries Work",
+      "title": "Battery 101: The Fundamentals of How A Lithium-Ion Battery Works",
+      "channel": "Dragonfly Energy",
+      "url": "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
