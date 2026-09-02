@@ -141,7 +141,8 @@
     "https://www.youtube.com/watch?v=CbHeh7qwils&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=J0lb46Zi5-s&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCRoMAYcqIYzv"
+    "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCRoMAYcqIYzv",
+    "https://www.youtube.com/watch?v=SSo_EIwHSd4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1137,6 +1138,13 @@
       "title": "Edge Computing Explained in 3 minutes",
       "channel": "Connected Cookie",
       "url": "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCRoMAYcqIYzv"
+    },
+    {
+      "date": "2026-09-02",
+      "topic": "How Blockchain Technology Works",
+      "title": "How does a blockchain work - Simply Explained",
+      "channel": "Simply Explained",
+      "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
     }
   ]
 }
