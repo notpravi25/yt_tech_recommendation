@@ -143,7 +143,8 @@
     "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx50gcJCRoMAYcqIYzv",
     "https://www.youtube.com/watch?v=SSo_EIwHSd4&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=lvTqbM5Dq4Q&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=lvTqbM5Dq4Q&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1153,6 +1154,13 @@
       "title": "How Quantum Computers Break Encryption | Shor's Algorithm Explained",
       "channel": "minutephysics",
       "url": "https://www.youtube.com/watch?v=lvTqbM5Dq4Q&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-09-04",
+      "topic": "How Gps Navigation Works",
+      "title": "How WAAS Works | Wide Area Augmentation System | GPS Navigation",
+      "channel": "FlightInsight",
+      "url": "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
