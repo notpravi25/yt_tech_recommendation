@@ -147,7 +147,8 @@
     "https://www.youtube.com/watch?v=Ystj4_118BE&pp=ygUiaG93IEdQUyBuYXZpZ2F0aW9uIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=7q8Uw3rmXyE&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=a4pXAmljdUA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWTSBwkJGwwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWTSBwkJGwwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1185,6 +1186,13 @@
       "title": "How Drone Delivery Actually Works In About 3 Minutes",
       "channel": " Tech Context",
       "url": "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWTSBwkJGwwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-09-08",
+      "topic": "How 5G Networks Work",
+      "title": "5G Network Architecture Simplified",
+      "channel": "Commsbrief Limited Official",
+      "url": "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
