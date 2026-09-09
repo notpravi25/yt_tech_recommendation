@@ -148,7 +148,8 @@
     "https://www.youtube.com/watch?v=7q8Uw3rmXyE&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=a4pXAmljdUA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWTSBwkJGwwBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D"
   ],
   "log": [
     {
@@ -1193,6 +1194,13 @@
       "title": "5G Network Architecture Simplified",
       "channel": "Commsbrief Limited Official",
       "url": "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-09-09",
+      "topic": "How Nuclear Reactors Work",
+      "title": "How Nuclear Power Works",
+      "channel": "Animagraffs",
+      "url": "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D"
     }
   ]
 }
