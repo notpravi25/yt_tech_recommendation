@@ -150,7 +150,8 @@
     "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWTSBwkJGwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=Gy05tGLW3PE&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQn-CwGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=Gy05tGLW3PE&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQn-CwGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1209,6 +1210,13 @@
       "title": "How AUGMENTED REALITY software works",
       "channel": "postindustria_",
       "url": "https://www.youtube.com/watch?v=Gy05tGLW3PE&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQn-CwGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-09-11",
+      "topic": "How Starlink Satellite Internet Works",
+      "title": "How Does Satellite Internet Work? (Starlink)",
+      "channel": "Tech Index",
+      "url": "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
     }
   ]
 }
