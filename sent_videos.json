@@ -151,7 +151,8 @@
     "https://www.youtube.com/watch?v=Q6YxHz_07zk&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb24%3D",
     "https://www.youtube.com/watch?v=Gy05tGLW3PE&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZNIHCQn-CwGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=qIfjibyt6pY&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1217,6 +1218,13 @@
       "title": "How Does Satellite Internet Work? (Starlink)",
       "channel": "Tech Index",
       "url": "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-09-12",
+      "topic": "How Electric Vehicles Work",
+      "title": "How Do Electric Vehicles Work?| Working Principles of EV in 3 Hrs | Certified EV Crash Course",
+      "channel": "Skill Lync",
+      "url": "https://www.youtube.com/watch?v=qIfjibyt6pY&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
