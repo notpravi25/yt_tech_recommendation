@@ -154,7 +154,8 @@
     "https://www.youtube.com/watch?v=xGSucWFkWT8&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=qIfjibyt6pY&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=UzkZ2IdtgHs&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=Q3y06P-G5aQ&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCf4LAYcqIYzv"
+    "https://www.youtube.com/watch?v=Q3y06P-G5aQ&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCf4LAYcqIYzv",
+    "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1241,6 +1242,13 @@
       "title": "How ChatGPT Really Works Under the Hood | AI & Tech Explained",
       "channel": "AI Unpacked",
       "url": "https://www.youtube.com/watch?v=Q3y06P-G5aQ&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCf4LAYcqIYzv"
+    },
+    {
+      "date": "2026-09-15",
+      "topic": "How Ai Voice Cloning Works",
+      "title": "The Secrets Behind Voice Cloning & AI Covers",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
