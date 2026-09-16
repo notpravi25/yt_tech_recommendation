@@ -155,7 +155,8 @@
     "https://www.youtube.com/watch?v=qIfjibyt6pY&pp=ygUkaG93IGVsZWN0cmljIHZlaGljbGVzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=UzkZ2IdtgHs&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=Q3y06P-G5aQ&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCf4LAYcqIYzv",
-    "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
   ],
   "log": [
     {
@@ -1249,6 +1250,13 @@
       "title": "The Secrets Behind Voice Cloning & AI Covers",
       "channel": "bycloud",
       "url": "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-09-16",
+      "topic": "How Embeddings Work In Ai",
+      "title": "A Beginner's Guide to Vector Embeddings",
+      "channel": "Colin Talks Tech",
+      "url": "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
     }
   ]
 }
