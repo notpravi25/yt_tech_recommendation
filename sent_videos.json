@@ -156,7 +156,8 @@
     "https://www.youtube.com/watch?v=UzkZ2IdtgHs&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=Q3y06P-G5aQ&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCf4LAYcqIYzv",
     "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
+    "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
+    "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1257,6 +1258,13 @@
       "title": "A Beginner's Guide to Vector Embeddings",
       "channel": "Colin Talks Tech",
       "url": "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5"
+    },
+    {
+      "date": "2026-09-17",
+      "topic": "How Backpropagation Works Neural Network",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
