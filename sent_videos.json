@@ -158,7 +158,8 @@
     "https://www.youtube.com/watch?v=vhArHsfsLAQ&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=NE5qJNp5lB0&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=NE5qJNp5lB0&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv"
   ],
   "log": [
     {
@@ -1273,6 +1274,13 @@
       "title": "Digital Twin Technology Explained: Benefits & Real Examples",
       "channel": "Things I Found",
       "url": "https://www.youtube.com/watch?v=NE5qJNp5lB0&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-09-19",
+      "topic": "How Attention Mechanism Works In Transformers",
+      "title": "I Visualised Attention in Transformers",
+      "channel": "Gal Lahat",
+      "url": "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv"
     }
   ]
 }
