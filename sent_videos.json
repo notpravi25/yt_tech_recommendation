@@ -159,7 +159,8 @@
     "https://www.youtube.com/watch?v=NEreO2zlXDk&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=NE5qJNp5lB0&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv"
+    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv",
+    "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1281,6 +1282,13 @@
       "title": "I Visualised Attention in Transformers",
       "channel": "Gal Lahat",
       "url": "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv"
+    },
+    {
+      "date": "2026-09-20",
+      "topic": "How Reinforcement Learning Works",
+      "title": "The FASTEST introduction to Reinforcement Learning on the internet",
+      "channel": "Gonkee",
+      "url": "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
