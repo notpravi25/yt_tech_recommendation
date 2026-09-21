@@ -160,7 +160,8 @@
     "https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=NE5qJNp5lB0&pp=ygUpd2hhdCBpcyBkaWdpdGFsIHR3aW4gdGVjaG5vbG9neSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv",
-    "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=u22-2CTErIQ&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1289,6 +1290,13 @@
       "title": "The FASTEST introduction to Reinforcement Learning on the internet",
       "channel": "Gonkee",
       "url": "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-09-21",
+      "topic": "What Is Neuromorphic Computing",
+      "title": "Neuromorphic Computing Explained | Jeffrey Shainline and Lex Fridman",
+      "channel": "Lex Clips",
+      "url": "https://www.youtube.com/watch?v=u22-2CTErIQ&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
