@@ -162,7 +162,8 @@
     "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz0gcJCSQMAYcqIYzv",
     "https://www.youtube.com/watch?v=VnpRp7ZglfA&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=u22-2CTErIQ&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCSAMAYcqIYzv"
+    "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCSAMAYcqIYzv",
+    "https://www.youtube.com/watch?v=1cyMTl_QXSc&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1305,6 +1306,13 @@
       "title": "How exoskeletons work",
       "channel": "Rappler",
       "url": "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCSAMAYcqIYzv"
+    },
+    {
+      "date": "2026-09-23",
+      "topic": "How Hard Drives And Ssds Work",
+      "title": "SSD vs Hard Drive vs Hybrid Drive",
+      "channel": "PowerCert Animated Videos",
+      "url": "https://www.youtube.com/watch?v=1cyMTl_QXSc&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
