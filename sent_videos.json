@@ -164,7 +164,8 @@
     "https://www.youtube.com/watch?v=u22-2CTErIQ&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=pEo8rtD3NPM&pp=ygUtaG93IGV4b3NrZWxldG9ucyB3b3JrIHJvYm90aWMgc3VpdHMgZXhwbGFpbmVk0gcJCSAMAYcqIYzv",
     "https://www.youtube.com/watch?v=1cyMTl_QXSc&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=fPjOWekzeGI&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    "https://www.youtube.com/watch?v=fPjOWekzeGI&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
+    "https://www.youtube.com/watch?v=g8Qav3vIv9s&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
   ],
   "log": [
     {
@@ -1321,6 +1322,13 @@
       "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
       "channel": "CARinfo3d (En)",
       "url": "https://www.youtube.com/watch?v=fPjOWekzeGI&pp=ygUoaG93IGNhciBlbmdpbmVzIHdvcmsgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    },
+    {
+      "date": "2026-09-25",
+      "topic": "How Semiconductors And Microchips Are Made",
+      "title": "💻 How Are Microchips Made?",
+      "channel": "Interesting Engineering",
+      "url": "https://www.youtube.com/watch?v=g8Qav3vIv9s&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
     }
   ]
 }
