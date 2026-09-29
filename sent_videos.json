@@ -168,7 +168,8 @@
     "https://www.youtube.com/watch?v=g8Qav3vIv9s&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=EYeHB3CC9L8&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=4knIPgD6h1U&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbtIHCQkvDAGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -1353,6 +1354,13 @@
       "title": "Why Large Language Models Hallucinate",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-09-29",
+      "topic": "How Transformers Work In Ai",
+      "title": "Transformer Explained",
+      "channel": "Caleb Writes Code",
+      "url": "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
     }
   ]
 }
