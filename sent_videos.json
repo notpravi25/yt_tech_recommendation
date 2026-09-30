@@ -169,7 +169,8 @@
     "https://www.youtube.com/watch?v=EYeHB3CC9L8&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=4knIPgD6h1U&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbtIHCQkvDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u"
   ],
   "log": [
     {
@@ -1361,6 +1362,13 @@
       "title": "Transformer Explained",
       "channel": "Caleb Writes Code",
       "url": "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-09-30",
+      "topic": "How Deep Learning Works",
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u"
     }
   ]
 }
