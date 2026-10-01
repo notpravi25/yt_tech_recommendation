@@ -170,7 +170,8 @@
     "https://www.youtube.com/watch?v=4knIPgD6h1U&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbtIHCQkvDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u"
+    "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
+    "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -1369,6 +1370,13 @@
       "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u"
+    },
+    {
+      "date": "2026-10-01",
+      "topic": "How Lithium Ion Batteries Work",
+      "title": "Battery 101: The Fundamentals of How A Lithium-Ion Battery Works",
+      "channel": "Dragonfly Energy",
+      "url": "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D"
     }
   ]
 }
