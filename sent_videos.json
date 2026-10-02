@@ -171,7 +171,8 @@
     "https://www.youtube.com/watch?v=cfqtFvWOfg0&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJLwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
-    "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D"
   ],
   "log": [
     {
@@ -1377,6 +1378,13 @@
       "title": "Battery 101: The Fundamentals of How A Lithium-Ion Battery Works",
       "channel": "Dragonfly Energy",
       "url": "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-10-02",
+      "topic": "How Wi-Fi Works",
+      "title": "How WIFI Actually Works.",
+      "channel": "The Default Guy",
+      "url": "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D"
     }
   ]
 }
