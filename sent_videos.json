@@ -172,7 +172,8 @@
     "https://www.youtube.com/watch?v=nZrZOI0oRuw&pp=ygUlaG93IHRyYW5zZm9ybWVycyB3b3JrIGluIEFJIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
   ],
   "log": [
     {
@@ -1385,6 +1386,13 @@
       "title": "How WIFI Actually Works.",
       "channel": "The Default Guy",
       "url": "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-10-03",
+      "topic": "How Jet Engines Work",
+      "title": "How does a jet engine work ? | Safran",
+      "channel": "Safran",
+      "url": "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
     }
   ]
 }
