@@ -173,7 +173,8 @@
     "https://www.youtube.com/watch?v=qYNweeDHiyU&t=288s&pp=ygUhaG93IGRlZXAgbGVhcm5pbmcgd29ya3MgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=j_rNjiIiBKE&pp=ygUoaG93IGxpdGhpdW0gaW9uIGJhdHRlcmllcyB3b3JrIGV4cGxhaW5lZNIHCQkuDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
+    "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u",
+    "https://www.youtube.com/watch?v=UTZ0OagJtSQ&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbtIHCQktDAGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -1393,6 +1394,13 @@
       "title": "How does a jet engine work ? | Safran",
       "channel": "Safran",
       "url": "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u"
+    },
+    {
+      "date": "2026-10-04",
+      "topic": "How Electric Motors Work",
+      "title": "How does an electric motor work?",
+      "channel": "ELIN Motoren GmbH",
+      "url": "https://www.youtube.com/watch?v=UTZ0OagJtSQ&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbtIHCQktDAGHKiGM7w%3D%3D"
     }
   ]
 }
