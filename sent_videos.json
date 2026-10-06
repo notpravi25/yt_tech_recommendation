@@ -175,7 +175,8 @@
     "https://www.youtube.com/watch?v=AFEhHGzidNI&t=20s&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJLQwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=kz5kv0RfeUc&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u",
     "https://www.youtube.com/watch?v=UTZ0OagJtSQ&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbtIHCQktDAGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=c0m6yaGlZh4&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
+    "https://www.youtube.com/watch?v=c0m6yaGlZh4&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
+    "https://www.youtube.com/watch?v=ezdIOLbUSWg&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1409,6 +1410,13 @@
       "title": "What is Artificial Intelligence? | Quick Learner",
       "channel": "Duke University",
       "url": "https://www.youtube.com/watch?v=c0m6yaGlZh4&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D"
+    },
+    {
+      "date": "2026-10-06",
+      "topic": "What Is Fine Tuning Ai Models",
+      "title": "Fine Tuning LLM Explained Simply",
+      "channel": "codebasics",
+      "url": "https://www.youtube.com/watch?v=ezdIOLbUSWg&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk"
     }
   ]
 }
