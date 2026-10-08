@@ -177,7 +177,8 @@
     "https://www.youtube.com/watch?v=UTZ0OagJtSQ&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbtIHCQktDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=c0m6yaGlZh4&pp=ygUvaG93IGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHdvcmtzIGZvciBiZWdpbm5lcnM%3D",
     "https://www.youtube.com/watch?v=ezdIOLbUSWg&pp=ygUnd2hhdCBpcyBmaW5lIHR1bmluZyBBSSBtb2RlbHMgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=IzGJw6daRTw&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    "https://www.youtube.com/watch?v=IzGJw6daRTw&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
+    "https://www.youtube.com/watch?v=DBQPXn6qbKA&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
   ],
   "log": [
     {
@@ -1425,6 +1426,13 @@
       "title": "Quantum Computing Explained by a Retired Microsoft Engineer",
       "channel": "Dave's Garage",
       "url": "https://www.youtube.com/watch?v=IzGJw6daRTw&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D"
+    },
+    {
+      "date": "2026-10-08",
+      "topic": "How Machine Learning Works",
+      "title": "How Machine Learning Works - Understanding the Basics",
+      "channel": "Codecademy",
+      "url": "https://www.youtube.com/watch?v=DBQPXn6qbKA&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
     }
   ]
 }
