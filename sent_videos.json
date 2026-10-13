@@ -182,7 +182,8 @@
     "https://www.youtube.com/watch?v=m4t4agOHMLE&pp=ygUuaG93IG51Y2xlYXIgZnVzaW9uIGVuZXJneSB3b3JrcyBleHBsYWluZWQgMjAyNA%3D%3D",
     "https://www.youtube.com/watch?v=2hXG8v8p0KM&pp=ygUmaG93IGNvbXB1dGVyIHZpc2lvbiB3b3JrcyBBSSBleHBsYWluZWTSBwkJNwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=LhLyOWoUnDI&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQk3DAGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQk3DAGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=taMP_n3wL7M&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1465,6 +1466,13 @@
       "title": "What is Retrieval-Augmented Generation (RAG)?",
       "channel": "IBM Technology",
       "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQk3DAGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-10-13",
+      "topic": "How Self-Driving Cars Work Ai Tesla",
+      "title": "How do Self Driving Cars Work? | Artificial Intelligence for STEM kids",
+      "channel": "Technovation",
+      "url": "https://www.youtube.com/watch?v=taMP_n3wL7M&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk"
     }
   ]
 }
