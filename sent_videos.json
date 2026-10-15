@@ -184,7 +184,8 @@
     "https://www.youtube.com/watch?v=LhLyOWoUnDI&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQk3DAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=taMP_n3wL7M&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
+    "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
+    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D"
   ],
   "log": [
     {
@@ -1481,6 +1482,13 @@
       "title": "Edge Computing Explained in 3 minutes",
       "channel": "Connected Cookie",
       "url": "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5"
+    },
+    {
+      "date": "2026-10-15",
+      "topic": "How 3D Printing Works",
+      "title": "How Do 3D Printers Work?  - EDUCATIONAL ANIMATION",
+      "channel": "Bracken Media",
+      "url": "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D"
     }
   ]
 }
