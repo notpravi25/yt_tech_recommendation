@@ -185,7 +185,8 @@
     "https://www.youtube.com/watch?v=T-D1OfcDW1M&pp=ygU0d2hhdCBpcyBSQUcgcmV0cmlldmFsIGF1Z21lbnRlZCBnZW5lcmF0aW9uIGV4cGxhaW5lZNIHCQk3DAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=taMP_n3wL7M&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
-    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1489,6 +1490,13 @@
       "title": "How Do 3D Printers Work?  - EDUCATIONAL ANIMATION",
       "channel": "Bracken Media",
       "url": "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-10-16",
+      "topic": "How Radar Works",
+      "title": "How does RADAR work? | James May Q&A | Head Squeeze",
+      "channel": "BBC Earth Science",
+      "url": "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
