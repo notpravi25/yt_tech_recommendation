@@ -186,7 +186,8 @@
     "https://www.youtube.com/watch?v=taMP_n3wL7M&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1497,6 +1498,13 @@
       "title": "How does RADAR work? | James May Q&A | Head Squeeze",
       "channel": "BBC Earth Science",
       "url": "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-10-17",
+      "topic": "How Planes Fly Aerodynamics",
+      "title": "Understanding Aerodynamic Lift",
+      "channel": "The Efficient Engineer",
+      "url": "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
