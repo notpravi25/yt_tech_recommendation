@@ -187,7 +187,8 @@
     "https://www.youtube.com/watch?v=m4ScX1oEJzA&pp=ygUnd2hhdCBpcyBlZGdlIGNvbXB1dGluZyBleHBsYWluZWQgc2ltcGx5",
     "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1505,6 +1506,13 @@
       "title": "Understanding Aerodynamic Lift",
       "channel": "The Efficient Engineer",
       "url": "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-10-18",
+      "topic": "How Hydrogen Fuel Cells Work",
+      "title": "How does a hydrogen fuel cell work? (AKIO TV)",
+      "channel": "AKIO TV",
+      "url": "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
