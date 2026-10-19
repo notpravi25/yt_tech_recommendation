@@ -188,7 +188,8 @@
     "https://www.youtube.com/watch?v=qoBU0r7pT84&pp=ygUpaG93IDNEIHByaW50aW5nIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb27SBwkJOwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=ywDE57CtaTM&pp=ygUZaG93IHJhZGFyIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=SRZ9E48B6aM&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1513,6 +1514,13 @@
       "title": "How does a hydrogen fuel cell work? (AKIO TV)",
       "channel": "AKIO TV",
       "url": "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-10-19",
+      "topic": "How Humanoid Robots Work Boston Dynamics",
+      "title": "The Humanoid Mission in Manufacturing | Boston Dynamics Tech Talk",
+      "channel": "Boston Dynamics",
+      "url": "https://www.youtube.com/watch?v=SRZ9E48B6aM&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D"
     }
   ]
 }
