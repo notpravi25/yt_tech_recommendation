@@ -190,7 +190,8 @@
     "https://www.youtube.com/watch?v=E3i_XHlVCeU&pp=ygUlaG93IHBsYW5lcyBmbHkgYWVyb2R5bmFtaWNzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=9zgx-PlDEKA&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=SRZ9E48B6aM&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZNIHCQk5DAGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZNIHCQk5DAGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=vHuPWQz9AlI&t=483s&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1529,6 +1530,13 @@
       "title": "What is Quantum Cryptography? An Introduction",
       "channel": "Eye on Tech",
       "url": "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZNIHCQk5DAGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-10-21",
+      "topic": "How Ai Voice Cloning Works",
+      "title": "The dark side of AI voice cloning",
+      "channel": "Jeff Geerling",
+      "url": "https://www.youtube.com/watch?v=vHuPWQz9AlI&t=483s&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
