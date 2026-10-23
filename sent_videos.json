@@ -192,7 +192,8 @@
     "https://www.youtube.com/watch?v=SRZ9E48B6aM&pp=ygUyaG93IGh1bWFub2lkIHJvYm90cyB3b3JrIEJvc3RvbiBEeW5hbWljcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZNIHCQk5DAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=vHuPWQz9AlI&t=483s&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=DW-aL_MiUz4&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=DW-aL_MiUz4&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1545,6 +1546,13 @@
       "title": "How Starlink Actually Works",
       "channel": "The Space Race",
       "url": "https://www.youtube.com/watch?v=DW-aL_MiUz4&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-10-23",
+      "topic": "How 5G Networks Work",
+      "title": "How exactly does 5G work? | Upscaled",
+      "channel": "Engadget",
+      "url": "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
