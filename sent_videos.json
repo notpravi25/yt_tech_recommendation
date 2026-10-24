@@ -193,7 +193,8 @@
     "https://www.youtube.com/watch?v=_5NQf8k3Jo0&pp=ygUoaG93IHF1YW50dW0gY3J5cHRvZ3JhcGh5IHdvcmtzIGV4cGxhaW5lZNIHCQk5DAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=vHuPWQz9AlI&t=483s&pp=ygUkaG93IEFJIHZvaWNlIGNsb25pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=DW-aL_MiUz4&pp=ygUvaG93IFN0YXJsaW5rIHNhdGVsbGl0ZSBpbnRlcm5ldCB3b3JrcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx50gcJCSwMAYcqIYzv"
   ],
   "log": [
     {
@@ -1553,6 +1554,13 @@
       "title": "How exactly does 5G work? | Upscaled",
       "channel": "Engadget",
       "url": "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-10-24",
+      "topic": "How Embeddings Work In Ai",
+      "title": "What are Word Embeddings?",
+      "channel": "IBM Technology",
+      "url": "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx50gcJCSwMAYcqIYzv"
     }
   ]
 }
