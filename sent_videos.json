@@ -196,7 +196,8 @@
     "https://www.youtube.com/watch?v=9EgXz1CEfQw&pp=ygUeaG93IDVHIG5ldHdvcmtzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx50gcJCSwMAYcqIYzv",
     "https://www.youtube.com/watch?v=i7q8bISGwMQ&t=156s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1577,6 +1578,13 @@
       "title": "How Do Rockets Work? | KiwiCo",
       "channel": "KiwiCo",
       "url": "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-10-27",
+      "topic": "How Solar Panels Generate Electricity",
+      "title": "How do Solar cells work?",
+      "channel": "Sabin Civil Engineering",
+      "url": "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
     }
   ]
 }
