@@ -197,7 +197,8 @@
     "https://www.youtube.com/watch?v=wgfSDrqYMJ4&pp=ygUqaG93IGVtYmVkZGluZ3Mgd29yayBpbiBBSSBleHBsYWluZWQgc2ltcGx50gcJCSwMAYcqIYzv",
     "https://www.youtube.com/watch?v=i7q8bISGwMQ&t=156s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1585,6 +1586,13 @@
       "title": "How do Solar cells work?",
       "channel": "Sabin Civil Engineering",
       "url": "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-10-28",
+      "topic": "How Spacex Starship Works Reusable Rocket",
+      "title": "How SpaceX Reinvented The Rocket!",
+      "channel": "The Space Race",
+      "url": "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
     }
   ]
 }
