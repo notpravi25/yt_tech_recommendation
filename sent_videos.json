@@ -198,7 +198,8 @@
     "https://www.youtube.com/watch?v=i7q8bISGwMQ&t=156s&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
+    "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk",
+    "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
   ],
   "log": [
     {
@@ -1593,6 +1594,13 @@
       "title": "How SpaceX Reinvented The Rocket!",
       "channel": "The Space Race",
       "url": "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk"
+    },
+    {
+      "date": "2026-10-29",
+      "topic": "How Alphago And Alphafold Work Deepmind",
+      "title": "Demis Hassabis: The Mind Behind DeepMind, AlphaGo and AlphaFold | UnBull",
+      "channel": "UnBull",
+      "url": "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
     }
   ]
 }
