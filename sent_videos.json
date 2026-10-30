@@ -199,7 +199,8 @@
     "https://www.youtube.com/watch?v=cMDCZWTSZvc&pp=ygUaaG93IHJvY2tldHMgd29yayBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
+    "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D"
   ],
   "log": [
     {
@@ -1601,6 +1602,13 @@
       "title": "Demis Hassabis: The Mind Behind DeepMind, AlphaGo and AlphaFold | UnBull",
       "channel": "UnBull",
       "url": "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D"
+    },
+    {
+      "date": "2026-10-30",
+      "topic": "How Backpropagation Works Neural Network",
+      "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D"
     }
   ]
 }
