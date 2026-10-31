@@ -200,7 +200,8 @@
     "https://www.youtube.com/watch?v=L_q6LRgKpTw&pp=ygUvaG93IHNvbGFyIHBhbmVscyBnZW5lcmF0ZSBlbGVjdHJpY2l0eSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=7vE95eBX6M0&pp=ygUzaG93IFNwYWNlWCBTdGFyc2hpcCB3b3JrcyByZXVzYWJsZSByb2NrZXQgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=YQEjGKYXjw8&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1609,6 +1610,13 @@
       "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
       "channel": "3Blue1Brown",
       "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-10-31",
+      "topic": "How Hard Drives And Ssds Work",
+      "title": "SSDs vs Hard Drives as Fast As Possible",
+      "channel": "Techquickie",
+      "url": "https://www.youtube.com/watch?v=YQEjGKYXjw8&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk"
     }
   ]
 }
