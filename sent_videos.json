@@ -202,7 +202,8 @@
     "https://www.youtube.com/watch?v=7LBnH2D-xcA&pp=ygUxaG93IEFscGhhR28gYW5kIEFscGhhRm9sZCB3b3JrIERlZXBNaW5kIGV4cGxhaW5lZNIHCQkyDAGHKiGM7w%3D%3D",
     "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=YQEjGKYXjw8&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk",
-    "https://www.youtube.com/watch?v=QJn28fFKUR0&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=QJn28fFKUR0&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
   ],
   "log": [
     {
@@ -1625,6 +1626,13 @@
       "title": "Blockchain Technology Simply Explained",
       "channel": "AI Uncovered",
       "url": "https://www.youtube.com/watch?v=QJn28fFKUR0&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-11-02",
+      "topic": "How Attention Mechanism Works In Transformers",
+      "title": "I Visualised Attention in Transformers",
+      "channel": "Gal Lahat",
+      "url": "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
     }
   ]
 }
