@@ -203,7 +203,8 @@
     "https://www.youtube.com/watch?v=Ilg3gGewQ5U&pp=ygUyaG93IGJhY2twcm9wYWdhdGlvbiB3b3JrcyBuZXVyYWwgbmV0d29yayBleHBsYWluZWTSBwkJKwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=YQEjGKYXjw8&pp=ygUnaG93IGhhcmQgZHJpdmVzIGFuZCBTU0RzIHdvcmsgZXhwbGFpbmVk",
     "https://www.youtube.com/watch?v=QJn28fFKUR0&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
+    "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
+    "https://www.youtube.com/watch?v=QtxVdC7pBQM&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCSoMAYcqIYzv"
   ],
   "log": [
     {
@@ -1633,6 +1634,13 @@
       "title": "I Visualised Attention in Transformers",
       "channel": "Gal Lahat",
       "url": "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz"
+    },
+    {
+      "date": "2026-11-03",
+      "topic": "How Jet Engines Work",
+      "title": "The Ridiculous Engineering Of Jet Engines",
+      "channel": "Veritasium",
+      "url": "https://www.youtube.com/watch?v=QtxVdC7pBQM&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCSoMAYcqIYzv"
     }
   ]
 }
