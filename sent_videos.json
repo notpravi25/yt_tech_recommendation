@@ -205,7 +205,8 @@
     "https://www.youtube.com/watch?v=QJn28fFKUR0&pp=ygUpaG93IGJsb2NrY2hhaW4gdGVjaG5vbG9neSB3b3JrcyBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=RNF0FvRjGZk&pp=ygUtaG93IGF0dGVudGlvbiBtZWNoYW5pc20gd29ya3MgaW4gdHJhbnNmb3JtZXJz",
     "https://www.youtube.com/watch?v=QtxVdC7pBQM&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCSoMAYcqIYzv",
-    "https://www.youtube.com/watch?v=6tw_JVz_IEc&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    "https://www.youtube.com/watch?v=6tw_JVz_IEc&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
+    "https://www.youtube.com/watch?v=jZOg39v73c4&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
   ],
   "log": [
     {
@@ -1649,6 +1650,13 @@
       "title": "How CRISPR lets you edit DNA - Andrea M. Henle",
       "channel": "TED-Ed",
       "url": "https://www.youtube.com/watch?v=6tw_JVz_IEc&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D"
+    },
+    {
+      "date": "2026-11-05",
+      "topic": "How Fiber Optic Internet Cables Work",
+      "title": "Optical fiber cables, how do they work? | ICT #3",
+      "channel": "Sabin Civil Engineering",
+      "url": "https://www.youtube.com/watch?v=jZOg39v73c4&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr"
     }
   ]
 }
