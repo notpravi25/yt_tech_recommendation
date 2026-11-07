@@ -207,7 +207,8 @@
     "https://www.youtube.com/watch?v=QtxVdC7pBQM&pp=ygUeaG93IGpldCBlbmdpbmVzIHdvcmsgYW5pbWF0aW9u0gcJCSoMAYcqIYzv",
     "https://www.youtube.com/watch?v=6tw_JVz_IEc&pp=ygUxaG93IENSSVNQUiBnZW5lIGVkaXRpbmcgd29ya3MgZXhwbGFpbmVkIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=jZOg39v73c4&pp=ygUkaG93IGZpYmVyIG9wdGljIGludGVybmV0IGNhYmxlcyB3b3Jr",
-    "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJKQwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJKQwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=CZJgO7clruI&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
   ],
   "log": [
     {
@@ -1665,6 +1666,13 @@
       "title": "AI Hallucinations Explained",
       "channel": "Moveworks",
       "url": "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJKQwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-11-07",
+      "topic": "How Diffusion Models Ai Image Generation Works",
+      "title": "How Diffusion Models Work",
+      "channel": "Coding Tech",
+      "url": "https://www.youtube.com/watch?v=CZJgO7clruI&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D"
     }
   ]
 }
