@@ -210,7 +210,8 @@
     "https://www.youtube.com/watch?v=nLbaUhEAx5c&pp=ygUmaG93IEFJIGhhbGx1Y2luYXRpb25zIGhhcHBlbiBleHBsYWluZWTSBwkJKQwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=CZJgO7clruI&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
     "https://www.youtube.com/watch?v=7uXwwBMXBpo&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
-    "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb27SBwkJRwwBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb27SBwkJRwwBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
   ],
   "log": [
     {
@@ -1689,6 +1690,13 @@
       "title": "How Nuclear Power Works",
       "channel": "Animagraffs",
       "url": "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb27SBwkJRwwBhyohjO8%3D"
+    },
+    {
+      "date": "2026-11-10",
+      "topic": "How Semiconductors And Microchips Are Made",
+      "title": "The Semiconductor Production Process Explained Clearly",
+      "channel": "Bosch Global",
+      "url": "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
     }
   ]
 }
