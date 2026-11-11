@@ -211,7 +211,8 @@
     "https://www.youtube.com/watch?v=CZJgO7clruI&pp=ygUuaG93IGRpZmZ1c2lvbiBtb2RlbHMgQUkgaW1hZ2UgZ2VuZXJhdGlvbiB3b3Jrcw%3D%3D",
     "https://www.youtube.com/watch?v=7uXwwBMXBpo&pp=ygUraG93IHF1YW50dW0gY29tcHV0ZXJzIHdvcmsgZXhwbGFpbmVkIHNpbXBseQ%3D%3D",
     "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb27SBwkJRwwBhyohjO8%3D",
-    "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
+    "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
+    "https://www.youtube.com/watch?v=E0Hmnixke2g&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
   ],
   "log": [
     {
@@ -1697,6 +1698,13 @@
       "title": "The Semiconductor Production Process Explained Clearly",
       "channel": "Bosch Global",
       "url": "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl"
+    },
+    {
+      "date": "2026-11-11",
+      "topic": "How Machine Learning Works",
+      "title": "All Machine Learning algorithms explained in 17 min",
+      "channel": "Infinite Codes",
+      "url": "https://www.youtube.com/watch?v=E0Hmnixke2g&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw"
     }
   ]
 }
