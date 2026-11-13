@@ -213,7 +213,8 @@
     "https://www.youtube.com/watch?v=PRWwXeRIvoI&pp=ygUjaG93IG51Y2xlYXIgcmVhY3RvcnMgd29yayBhbmltYXRpb27SBwkJRwwBhyohjO8%3D",
     "https://www.youtube.com/watch?v=c9arR8T0Qts&pp=ygUqaG93IHNlbWljb25kdWN0b3JzIGFuZCBtaWNyb2NoaXBzIGFyZSBtYWRl",
     "https://www.youtube.com/watch?v=E0Hmnixke2g&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
-    "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJxwcBhyohjO8%3D"
+    "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJxwcBhyohjO8%3D",
+    "https://www.youtube.com/watch?v=hePLDVbULZc&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
   ],
   "log": [
     {
@@ -1713,6 +1714,13 @@
       "title": "The Engineering that Runs the Digital World 🛠️⚙️💻 How do CPUs Work?",
       "channel": "Branch Education",
       "url": "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJxwcBhyohjO8%3D"
+    },
+    {
+      "date": "2026-11-13",
+      "topic": "How Wi-Fi Works",
+      "title": "That's How Wi-Fi Works",
+      "channel": "BRIGHT SIDE",
+      "url": "https://www.youtube.com/watch?v=hePLDVbULZc&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D"
     }
   ]
 }
