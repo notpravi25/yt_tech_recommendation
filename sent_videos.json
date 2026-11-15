@@ -215,7 +215,8 @@
     "https://www.youtube.com/watch?v=E0Hmnixke2g&pp=ygUnaG93IG1hY2hpbmUgbGVhcm5pbmcgd29ya3Mgc3RlcCBieSBzdGVw",
     "https://www.youtube.com/watch?v=16zrEPOsIcI&pp=ygUpaG93IGEgQ1BVIHByb2Nlc3NvciB3b3JrcyBpbnNpZGUgY29tcHV0ZXLSBwkJxwcBhyohjO8%3D",
     "https://www.youtube.com/watch?v=hePLDVbULZc&pp=ygUjaG93IFdpLUZpIHdvcmtzIGV4cGxhaW5lZCBhbmltYXRpb24%3D",
-    "https://www.youtube.com/watch?v=gdy0gBVWAzE&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=gdy0gBVWAzE&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=pO6XdBdN3Js&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCccHAYcqIYzv"
   ],
   "log": [
     {
@@ -1729,6 +1730,13 @@
       "title": "Living Underwater: How Submarines Work",
       "channel": "Wendover Productions",
       "url": "https://www.youtube.com/watch?v=gdy0gBVWAzE&pp=ygUdaG93IHN1Ym1hcmluZXMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-11-15",
+      "topic": "How Chatgpt Works",
+      "title": "How ChatGPT ACTUALLY Works Under the Hood (System Design)",
+      "channel": "Rocky Bhatia",
+      "url": "https://www.youtube.com/watch?v=pO6XdBdN3Js&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCccHAYcqIYzv"
     }
   ]
 }
