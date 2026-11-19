@@ -219,7 +219,8 @@
     "https://www.youtube.com/watch?v=pO6XdBdN3Js&pp=ygUqaG93IENoYXRHUFQgd29ya3MgdW5kZXIgdGhlIGhvb2QgZXhwbGFpbmVk0gcJCccHAYcqIYzv",
     "https://www.youtube.com/watch?v=UTZ0OagJtSQ&pp=ygUiaG93IGVsZWN0cmljIG1vdG9ycyB3b3JrIGFuaW1hdGlvbg%3D%3D",
     "https://www.youtube.com/watch?v=7oK_Cqt4kgY&pp=ygUod2hhdCBpcyBuZXVyb21vcnBoaWMgY29tcHV0aW5nIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=K9rXjAfdrcU&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=K9rXjAfdrcU&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=Ni7ZczyolHY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
   ],
   "log": [
     {
@@ -1761,6 +1762,13 @@
       "title": "How The Neuralink Brain Chip Actually Works",
       "channel": "The Tesla Space",
       "url": "https://www.youtube.com/watch?v=K9rXjAfdrcU&pp=ygUoaG93IE5ldXJhbGluayBicmFpbiBjaGlwIHdvcmtzIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-11-19",
+      "topic": "How Hydrogen Fuel Cells Work",
+      "title": "How Does a Hydrogen Fuel Cell Work?  │ Simple Explanation",
+      "channel": "Paxton Patterson Labs  │  College & Career Ready",
+      "url": "https://www.youtube.com/watch?v=Ni7ZczyolHY&pp=ygUmaG93IGh5ZHJvZ2VuIGZ1ZWwgY2VsbHMgd29yayBleHBsYWluZWQ%3D"
     }
   ]
 }
