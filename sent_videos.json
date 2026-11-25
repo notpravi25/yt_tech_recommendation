@@ -225,7 +225,8 @@
     "https://www.youtube.com/watch?v=FgEF7sOW1_Q&pp=ygU1d2hhdCBpcyBBR0kgYXJ0aWZpY2lhbCBnZW5lcmFsIGludGVsbGlnZW5jZSBleHBsYWluZWQ%3D",
     "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk0gcJCRAIAYcqIYzv",
     "https://www.youtube.com/watch?v=QpbJwad6v_s&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
-    "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D"
+    "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
+    "https://www.youtube.com/watch?v=v1BMWczn7JM&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
   ],
   "log": [
     {
@@ -1809,6 +1810,13 @@
       "title": "How Drone Delivery Actually Works In About 3 Minutes",
       "channel": " Tech Context",
       "url": "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D"
+    },
+    {
+      "date": "2026-11-25",
+      "topic": "How Smart Grids Work Electricity Future",
+      "title": "How Does the Power Grid Work?",
+      "channel": "Practical Engineering",
+      "url": "https://www.youtube.com/watch?v=v1BMWczn7JM&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
     }
   ]
 }
