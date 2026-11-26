@@ -226,7 +226,8 @@
     "https://www.youtube.com/watch?v=Zl3YSPilT-w&pp=ygUtaG93IHNlbGYtZHJpdmluZyBjYXJzIHdvcmsgQUkgdGVzbGEgZXhwbGFpbmVk0gcJCRAIAYcqIYzv",
     "https://www.youtube.com/watch?v=QpbJwad6v_s&pp=ygUoaG93IGF1Z21lbnRlZCByZWFsaXR5IEFSIHdvcmtzIGV4cGxhaW5lZA%3D%3D",
     "https://www.youtube.com/watch?v=xLtYzWPJBAI&pp=ygUpaG93IGRyb25lIGRlbGl2ZXJ5IHN5c3RlbXMgd29yayBleHBsYWluZWQ%3D",
-    "https://www.youtube.com/watch?v=v1BMWczn7JM&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
+    "https://www.youtube.com/watch?v=v1BMWczn7JM&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D",
+    "https://www.youtube.com/watch?v=0SVpmARc90o&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
   ],
   "log": [
     {
@@ -1817,6 +1818,13 @@
       "title": "How Does the Power Grid Work?",
       "channel": "Practical Engineering",
       "url": "https://www.youtube.com/watch?v=v1BMWczn7JM&pp=ygUxaG93IHNtYXJ0IGdyaWRzIHdvcmsgZWxlY3RyaWNpdHkgZnV0dXJlIGV4cGxhaW5lZA%3D%3D"
+    },
+    {
+      "date": "2026-11-26",
+      "topic": "How Reinforcement Learning Works",
+      "title": "Reinforcement Learning is hard..",
+      "channel": "Caleb Writes Code",
+      "url": "https://www.youtube.com/watch?v=0SVpmARc90o&pp=ygUqaG93IHJlaW5mb3JjZW1lbnQgbGVhcm5pbmcgd29ya3MgZXhwbGFpbmVk"
     }
   ]
 }
